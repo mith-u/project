@@ -1,0 +1,5 @@
+{"session_id": 0, "events": [{"page": "home", "t_rel_ms": 1766}, {"page": "home", "t_rel_ms": 3895}, {"page": "cart", "t_rel_ms": 6647}, {"page": "checkout", "t_rel_ms": 8530}, {"page": "cart", "t_rel_ms": 10468}]}
+{"session_id": 1, "events": [{"page": "checkout", "t_rel_ms": 2786}, {"page": "cart", "t_rel_ms": 3744}, {"page": "cart", "t_rel_ms": 5259}]}
+{"session_id": 2, "events": [{"page": "cart", "t_rel_ms": 2898}, {"page": "products", "t_rel_ms": 5227}, {"page": "products", "t_rel_ms": 6550}, {"page": "cart", "t_rel_ms": 9309}, {"page": "checkout", "t_rel_ms": 11951}]}
+{"session_id": 3, "events": [{"page": "products", "t_rel_ms": 2835}, {"page": "home", "t_rel_ms": 3514}, {"page": "cart", "t_rel_ms": 6476}, {"page": "home", "t_rel_ms": 8955}, {"page": "cart", "t_rel_ms": 10169}]}
+{"session_id": 4, "events": [{"page": "products", "t_rel_ms": 1558}, {"page": "checkout", "t_rel_ms": 3840}, {"page": "home", "t_rel_ms": 6721}, {"page": "checkout", "t_rel_ms": 7489}, {"page": "checkout", "t_rel_ms": 10183}, {"page": "home", "t_rel_ms": 12250}]}
