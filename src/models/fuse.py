@@ -16,6 +16,9 @@ lstm_scores = np.random.rand(len(X))       # placeholder for reconstruction erro
 df["iforest_score"] = (if_scores - if_scores.min()) / (if_scores.max()-if_scores.min())
 df["lstm_score"] = (lstm_scores - lstm_scores.min()) / (lstm_scores.max()-lstm_scores.min())
 df["hybrid_score"] = 0.4*df["iforest_score"] + 0.6*df["lstm_score"]
+# Add label column based on simulation info
+# Replace the logic below with how you actually distinguish bots from humans
+df["label"] = df["session_id"].apply(lambda x: 1 if "bot" in str(x).lower() else 0)
 
 df.to_csv("artifacts/scores.csv", index=False)
 print("Saved -> artifacts/scores.csv")
