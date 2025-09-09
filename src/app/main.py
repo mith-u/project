@@ -5,7 +5,6 @@ import os, json
 import plotly.express as px
 
 st.title("🔍 Web Anomaly Detection Dashboard")
-st.write("MITHUN 22BCE2307")
 
 # Check if scores file exists
 if not os.path.exists("artifacts/scores.csv"):
