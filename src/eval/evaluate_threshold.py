@@ -1,6 +1,10 @@
 import pandas as pd
 from sklearn.metrics import roc_curve, auc, precision_recall_curve
 import matplotlib.pyplot as plt
+import os
+
+# Create reports directory if it doesn't exist
+os.makedirs("artifacts/reports", exist_ok=True)
 
 # Load scores (must include hybrid_score and ground truth labels)
 df = pd.read_csv("artifacts/scores.csv")
@@ -27,8 +31,9 @@ print(f"AUC: {roc_auc:.3f}")
 
 # --- Precision-Recall Curve ---
 precision, recall, pr_thresholds = precision_recall_curve(y_true, y_scores)
+# Use a small epsilon to avoid division by zero
 pr_f1 = 2 * (precision * recall) / (precision + recall + 1e-9)
-best_pr_idx = pr_f1.argmax()
+best_pr_idx = pr_f1[:-1].argmax() # Exclude the last value which can be NaN
 best_pr_threshold = pr_thresholds[best_pr_idx]
 
 print(f"Best Threshold (PR/F1): {best_pr_threshold:.3f}")
