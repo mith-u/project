@@ -26,7 +26,7 @@ J = tpr - fpr
 best_idx = J.argmax()
 best_threshold = thresholds[best_idx]
 
-print(f"Best Threshold (ROC): {best_threshold:.3f}")
+#print(f"Best Threshold (ROC & PR/F1): {best_threshold:.3f}")
 print(f"AUC: {roc_auc:.3f}")
 
 # --- Precision-Recall Curve ---

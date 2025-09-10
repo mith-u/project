@@ -1,1150 +1,1150 @@
-{"session_id": 907, "sequence": [2, 2, 2, 2, 3, 2]}
-{"session_id": 924, "sequence": [3, 2, 2, 1, 3, 1, 3, 3]}
-{"session_id": 863, "sequence": [0, 1, 1, 3, 0, 3]}
-{"session_id": 573, "sequence": [3, 2, 3, 0]}
-{"session_id": 969, "sequence": [0, 0, 0, 1, 2]}
-{"session_id": 544, "sequence": [0, 1, 3, 3]}
-{"session_id": 728, "sequence": [0, 0, 0, 0, 1, 1, 1, 2]}
-{"session_id": 76, "sequence": [2, 3, 3, 1, 2, 2]}
-{"session_id": 282, "sequence": [2, 3, 1, 2, 2, 3, 1]}
+{"session_id": 522, "sequence": [0, 1, 1, 1]}
+{"session_id": 137, "sequence": [3, 1, 0, 1, 3, 0, 2]}
+{"session_id": 921, "sequence": [3, 0, 1, 2, 3, 3, 2]}
+{"session_id": 221, "sequence": [2, 0, 2, 3, 0, 1]}
+{"session_id": "bot_1027", "sequence": [1, 2, 0]}
+{"session_id": "bot_1056", "sequence": [1, 0, 2]}
+{"session_id": "bot_1146", "sequence": [1, 0, 3, 2]}
+{"session_id": 642, "sequence": [2, 1, 3, 1, 2, 1]}
+{"session_id": 285, "sequence": [3, 3, 3, 0]}
+{"session_id": "bot_1007", "sequence": [3, 2, 1]}
+{"session_id": 494, "sequence": [2, 2, 1, 2, 0, 1]}
+{"session_id": "bot_1006", "sequence": [3, 1]}
+{"session_id": "bot_1030", "sequence": [0, 3]}
+{"session_id": 138, "sequence": [3, 3, 3, 2, 2, 3, 2, 3]}
+{"session_id": "bot_1045", "sequence": [2, 3, 0]}
+{"session_id": 833, "sequence": [1, 3, 1, 3, 1, 0, 3, 1]}
+{"session_id": 750, "sequence": [1, 1, 1, 3, 0, 0, 3]}
+{"session_id": 753, "sequence": [0, 1, 3, 0, 0]}
+{"session_id": 930, "sequence": [0, 2, 3, 2, 1, 1]}
+{"session_id": 859, "sequence": [2, 3, 3, 2, 0, 0, 1]}
+{"session_id": "bot_1041", "sequence": [3, 2]}
+{"session_id": "bot_1059", "sequence": [2, 3, 1]}
+{"session_id": "bot_1017", "sequence": [0, 1]}
+{"session_id": 781, "sequence": [3, 0, 0, 0, 1]}
+{"session_id": 964, "sequence": [0, 3, 2, 1, 0, 2, 1]}
+{"session_id": 773, "sequence": [0, 1, 0, 2]}
+{"session_id": 634, "sequence": [0, 1, 1, 0, 3]}
+{"session_id": 596, "sequence": [1, 1, 1, 3, 2, 3]}
+{"session_id": 169, "sequence": [0, 2, 0, 2]}
+{"session_id": 973, "sequence": [2, 1, 3, 1, 0]}
+{"session_id": 71, "sequence": [2, 0, 0, 2]}
+{"session_id": 981, "sequence": [1, 2, 2, 2]}
+{"session_id": 978, "sequence": [3, 1, 0, 1, 2, 2, 1, 0]}
+{"session_id": 702, "sequence": [2, 3, 1, 3, 1, 3]}
+{"session_id": 232, "sequence": [0, 3, 3, 3]}
+{"session_id": 602, "sequence": [3, 0, 3, 1, 0]}
+{"session_id": 525, "sequence": [0, 3, 0, 2, 2, 0]}
+{"session_id": "bot_1139", "sequence": [3, 2, 1]}
+{"session_id": "bot_1134", "sequence": [1, 0, 2, 3]}
+{"session_id": 990, "sequence": [3, 1, 3, 2, 0]}
+{"session_id": 134, "sequence": [3, 0, 1, 2, 0, 2, 2, 0]}
+{"session_id": 996, "sequence": [2, 0, 3, 1, 2, 3]}
+{"session_id": 747, "sequence": [1, 2, 2, 1]}
+{"session_id": 227, "sequence": [2, 1, 0, 1, 2, 0]}
+{"session_id": 452, "sequence": [3, 0, 2, 1, 3, 3, 3]}
+{"session_id": 994, "sequence": [3, 3, 2, 1, 2, 1, 1, 3]}
+{"session_id": 127, "sequence": [1, 1, 0, 2, 3, 0, 1]}
+{"session_id": 447, "sequence": [3, 1, 3, 3, 0, 2]}
+{"session_id": "bot_1061", "sequence": [0, 2]}
+{"session_id": 628, "sequence": [1, 3, 1, 0, 1]}
+{"session_id": 180, "sequence": [1, 0, 1, 0, 1, 2, 2]}
+{"session_id": 488, "sequence": [0, 1, 1, 3]}
+{"session_id": 743, "sequence": [1, 0, 2, 1, 0, 0, 3]}
+{"session_id": 117, "sequence": [1, 3, 0, 1]}
+{"session_id": 477, "sequence": [2, 2, 3, 1, 3, 2, 2]}
+{"session_id": 118, "sequence": [3, 2, 3, 2, 0, 3, 3]}
+{"session_id": 945, "sequence": [2, 1, 2, 1, 1, 2, 0, 3]}
+{"session_id": 475, "sequence": [3, 2, 3, 2]}
+{"session_id": 182, "sequence": [3, 0, 0, 1, 1, 1, 3, 2]}
+{"session_id": 688, "sequence": [3, 3, 0, 3, 2, 2, 1]}
+{"session_id": 234, "sequence": [0, 2, 1, 2, 3]}
+{"session_id": 889, "sequence": [3, 2, 0, 0, 3, 3, 2, 0]}
+{"session_id": 762, "sequence": [1, 2, 0, 1, 2]}
+{"session_id": 898, "sequence": [3, 3, 0, 0, 3, 2]}
+{"session_id": 91, "sequence": [1, 1, 0, 0, 3, 2]}
+{"session_id": 729, "sequence": [1, 2, 0, 3, 0, 0, 0, 2]}
+{"session_id": 772, "sequence": [1, 3, 3, 3]}
+{"session_id": "bot_1073", "sequence": [2, 0, 3, 1]}
+{"session_id": 638, "sequence": [0, 2, 1, 3]}
+{"session_id": 880, "sequence": [3, 1, 3, 1]}
+{"session_id": "bot_1126", "sequence": [1, 2, 0, 3]}
+{"session_id": 148, "sequence": [0, 0, 0, 2, 1]}
+{"session_id": 623, "sequence": [1, 0, 3, 2, 0, 2, 1]}
+{"session_id": 442, "sequence": [3, 3, 1, 2]}
+{"session_id": 321, "sequence": [3, 3, 1, 0]}
+{"session_id": 490, "sequence": [1, 0, 0, 1, 1, 2, 1]}
+{"session_id": 999, "sequence": [3, 1, 3, 2, 2, 3, 2]}
+{"session_id": 206, "sequence": [3, 1, 2, 3]}
+{"session_id": 459, "sequence": [0, 0, 2, 1, 3, 1, 0]}
+{"session_id": 79, "sequence": [0, 0, 2, 1, 0, 1]}
+{"session_id": 65, "sequence": [1, 2, 2, 3, 2]}
 {"session_id": "bot_1112", "sequence": [3, 2]}
-{"session_id": "bot_1015", "sequence": [1, 2]}
-{"session_id": 265, "sequence": [1, 0, 1, 3, 1, 1, 1]}
-{"session_id": 301, "sequence": [3, 1, 2, 3, 1, 1]}
-{"session_id": "bot_1101", "sequence": [0, 2]}
-{"session_id": 202, "sequence": [1, 1, 3, 1, 3, 2, 2, 2]}
-{"session_id": 466, "sequence": [0, 2, 3, 2, 3]}
-{"session_id": 272, "sequence": [1, 0, 3, 0, 1]}
-{"session_id": "bot_1149", "sequence": [1, 2]}
-{"session_id": 583, "sequence": [2, 3, 1, 2, 3, 2]}
-{"session_id": 494, "sequence": [1, 3, 2, 1, 1, 1, 2]}
-{"session_id": 561, "sequence": [1, 2, 3, 3, 0, 3]}
-{"session_id": 362, "sequence": [0, 0, 1, 0, 0, 2, 1]}
-{"session_id": 966, "sequence": [0, 1, 1, 3, 3, 0, 3, 1]}
-{"session_id": 200, "sequence": [1, 3, 2, 1, 1, 3, 1]}
-{"session_id": 983, "sequence": [3, 2, 0, 1, 3, 3]}
-{"session_id": 785, "sequence": [0, 1, 3, 0, 3]}
-{"session_id": 462, "sequence": [1, 2, 1, 2, 3, 0, 3]}
-{"session_id": 610, "sequence": [3, 2, 2, 3, 3, 3]}
-{"session_id": 57, "sequence": [3, 3, 3, 3, 2, 2, 2]}
-{"session_id": "bot_1042", "sequence": [1, 3]}
-{"session_id": 523, "sequence": [2, 3, 0, 3, 3, 0, 1]}
-{"session_id": 694, "sequence": [2, 1, 1, 2]}
-{"session_id": 306, "sequence": [3, 3, 0, 2]}
-{"session_id": 951, "sequence": [1, 2, 3, 3, 1, 2, 0, 3]}
-{"session_id": "bot_1027", "sequence": [0, 2, 1]}
-{"session_id": 591, "sequence": [3, 3, 2, 1, 1, 0, 3, 3]}
-{"session_id": 356, "sequence": [1, 1, 3, 1, 0, 3]}
-{"session_id": 663, "sequence": [2, 1, 2, 1, 0, 2, 2]}
-{"session_id": 880, "sequence": [1, 0, 3, 3, 1]}
-{"session_id": 426, "sequence": [1, 0, 1, 0, 2]}
-{"session_id": 26, "sequence": [2, 2, 2, 0, 2, 0]}
-{"session_id": 925, "sequence": [1, 0, 3, 2, 3]}
-{"session_id": 655, "sequence": [2, 0, 2, 2]}
-{"session_id": 23, "sequence": [3, 1, 0, 2, 2, 0]}
-{"session_id": 617, "sequence": [0, 1, 3, 1]}
-{"session_id": 954, "sequence": [2, 3, 2, 3]}
-{"session_id": 869, "sequence": [1, 1, 2, 2, 0, 1]}
-{"session_id": 86, "sequence": [3, 2, 2, 3, 0, 1, 2]}
-{"session_id": "bot_1051", "sequence": [2, 1, 3]}
-{"session_id": 818, "sequence": [1, 3, 2, 2, 2, 3, 1]}
-{"session_id": 447, "sequence": [1, 2, 3, 0, 2, 2, 2]}
-{"session_id": 505, "sequence": [1, 1, 1, 3]}
-{"session_id": 160, "sequence": [2, 2, 3, 3, 1, 0, 1]}
-{"session_id": 636, "sequence": [3, 0, 3, 1, 0, 0, 0]}
-{"session_id": 404, "sequence": [0, 0, 0, 2, 3, 0, 1]}
-{"session_id": 408, "sequence": [3, 1, 3, 0, 3, 1]}
-{"session_id": 890, "sequence": [0, 1, 3, 2, 0, 0]}
-{"session_id": 60, "sequence": [3, 2, 1, 0, 1, 3, 3]}
-{"session_id": 176, "sequence": [3, 0, 2, 3, 1, 1]}
-{"session_id": 572, "sequence": [2, 2, 2, 3, 2, 1]}
-{"session_id": 414, "sequence": [2, 1, 1, 0, 1, 2]}
-{"session_id": 828, "sequence": [1, 3, 2, 1, 2]}
-{"session_id": 887, "sequence": [3, 2, 0, 2, 2, 3]}
-{"session_id": "bot_1018", "sequence": [1, 2]}
-{"session_id": 623, "sequence": [2, 0, 0, 3, 1, 0, 0]}
-{"session_id": 501, "sequence": [2, 0, 0, 2, 2, 0, 1, 2]}
-{"session_id": 187, "sequence": [0, 2, 1, 3, 2, 0]}
-{"session_id": "bot_1119", "sequence": [2, 0, 1, 3]}
-{"session_id": 940, "sequence": [0, 2, 1, 0, 2]}
-{"session_id": "bot_1035", "sequence": [3, 0, 2, 1]}
-{"session_id": 933, "sequence": [3, 0, 3, 2, 0]}
-{"session_id": 825, "sequence": [3, 3, 1, 3, 0]}
-{"session_id": "bot_1082", "sequence": [0, 1, 2, 3]}
-{"session_id": 68, "sequence": [1, 0, 0, 3, 3]}
-{"session_id": 460, "sequence": [2, 2, 2, 2, 3]}
-{"session_id": 493, "sequence": [2, 1, 3, 0, 3, 3, 2, 3]}
-{"session_id": 223, "sequence": [3, 1, 0, 3, 0, 3, 1, 3]}
-{"session_id": 297, "sequence": [2, 3, 3, 1, 2, 0]}
-{"session_id": "bot_1054", "sequence": [2, 1]}
-{"session_id": 247, "sequence": [0, 3, 2, 2, 1, 1]}
-{"session_id": "bot_1008", "sequence": [3, 0, 1, 2]}
-{"session_id": 298, "sequence": [3, 2, 2, 0, 1, 2]}
-{"session_id": 557, "sequence": [0, 2, 2, 1]}
-{"session_id": "bot_1131", "sequence": [3, 2, 1]}
-{"session_id": "bot_1111", "sequence": [3, 0, 2, 1]}
-{"session_id": 872, "sequence": [3, 3, 0, 2, 2, 3, 1, 3]}
-{"session_id": 791, "sequence": [3, 2, 1, 2, 1, 2, 2]}
-{"session_id": 373, "sequence": [2, 0, 1, 3, 1, 3, 3]}
-{"session_id": 681, "sequence": [2, 2, 3, 2, 1]}
-{"session_id": 153, "sequence": [1, 2, 2, 2]}
-{"session_id": 670, "sequence": [1, 3, 3, 2, 1, 3, 3, 3]}
-{"session_id": 432, "sequence": [3, 0, 1, 1, 0, 0, 1]}
-{"session_id": 775, "sequence": [1, 0, 1, 2, 3, 0]}
-{"session_id": 755, "sequence": [2, 2, 2, 2, 2, 0, 1]}
-{"session_id": 837, "sequence": [1, 2, 1, 2, 3, 0, 0, 2]}
-{"session_id": 922, "sequence": [2, 1, 3, 3, 2]}
-{"session_id": 967, "sequence": [0, 2, 1, 3, 3, 3, 1]}
-{"session_id": 800, "sequence": [3, 0, 3, 2, 0, 0, 1, 3]}
-{"session_id": 385, "sequence": [3, 1, 3, 2, 3, 3, 1, 2]}
-{"session_id": 552, "sequence": [2, 3, 0, 2, 2, 1, 2]}
-{"session_id": "bot_1146", "sequence": [0, 3, 2, 1]}
-{"session_id": 916, "sequence": [1, 0, 1, 3]}
-{"session_id": 953, "sequence": [1, 2, 1, 1, 0, 0, 1]}
-{"session_id": "bot_1028", "sequence": [1, 3, 2]}
-{"session_id": 482, "sequence": [1, 2, 1, 0, 0, 0, 1, 2]}
-{"session_id": 936, "sequence": [0, 1, 1, 3]}
-{"session_id": 87, "sequence": [1, 0, 0, 1, 0, 1, 0, 1]}
-{"session_id": 599, "sequence": [3, 0, 2, 2, 1, 2]}
-{"session_id": 821, "sequence": [2, 1, 0, 2]}
-{"session_id": 550, "sequence": [1, 0, 3, 1, 3, 0]}
-{"session_id": "bot_1106", "sequence": [1, 2]}
-{"session_id": 386, "sequence": [3, 2, 1, 0, 0, 2]}
-{"session_id": "bot_1001", "sequence": [1, 2, 0, 3]}
-{"session_id": 667, "sequence": [1, 2, 1, 3, 1, 2, 0]}
-{"session_id": 542, "sequence": [1, 2, 3, 3, 3]}
-{"session_id": "bot_1014", "sequence": [0, 1, 2, 3]}
-{"session_id": 138, "sequence": [0, 1, 0, 1, 1, 1]}
-{"session_id": 121, "sequence": [0, 2, 3, 1, 1]}
-{"session_id": 929, "sequence": [2, 2, 2, 1]}
-{"session_id": 388, "sequence": [0, 3, 2, 1, 2, 2, 3]}
-{"session_id": 978, "sequence": [0, 2, 2, 2]}
-{"session_id": 798, "sequence": [1, 1, 3, 1, 3, 1, 1, 0]}
-{"session_id": 714, "sequence": [1, 0, 3, 0, 3, 1, 2]}
-{"session_id": 289, "sequence": [1, 2, 1, 3, 3, 2]}
-{"session_id": 203, "sequence": [3, 3, 0, 3, 3]}
-{"session_id": 908, "sequence": [0, 0, 2, 1, 1, 3]}
-{"session_id": 317, "sequence": [3, 1, 3, 1, 1, 2, 2]}
-{"session_id": 232, "sequence": [1, 2, 1, 3, 0, 3, 3, 3]}
-{"session_id": 652, "sequence": [0, 2, 1, 3]}
-{"session_id": 746, "sequence": [3, 2, 0, 0, 0, 0, 1, 3]}
-{"session_id": 18, "sequence": [3, 1, 1, 1, 0]}
-{"session_id": 752, "sequence": [2, 2, 2, 0, 0, 1, 0, 2]}
-{"session_id": 754, "sequence": [2, 0, 3, 1]}
-{"session_id": 109, "sequence": [3, 3, 3, 0]}
-{"session_id": "bot_1095", "sequence": [3, 1, 0, 2]}
-{"session_id": 243, "sequence": [2, 0, 1, 1, 3, 2, 3, 1]}
-{"session_id": "bot_1137", "sequence": [3, 1, 0]}
-{"session_id": 647, "sequence": [1, 0, 3, 0, 2]}
-{"session_id": 817, "sequence": [3, 1, 1, 1, 3, 2, 3, 3]}
-{"session_id": 201, "sequence": [1, 0, 1, 3, 0, 2, 3]}
-{"session_id": 935, "sequence": [3, 0, 2, 2, 2]}
-{"session_id": 90, "sequence": [0, 3, 1, 0, 3]}
-{"session_id": 619, "sequence": [0, 2, 2, 2, 2, 0, 0, 3]}
-{"session_id": 189, "sequence": [3, 1, 1, 0, 2, 2]}
-{"session_id": 479, "sequence": [1, 0, 3, 2, 1, 0, 0]}
-{"session_id": 489, "sequence": [0, 1, 3, 3, 2, 3, 2, 0]}
-{"session_id": 352, "sequence": [3, 0, 3, 2, 3, 2]}
-{"session_id": 210, "sequence": [0, 2, 1, 1]}
-{"session_id": 520, "sequence": [2, 1, 2, 3]}
-{"session_id": 17, "sequence": [1, 2, 0, 1, 1]}
-{"session_id": 70, "sequence": [2, 3, 1, 2, 3]}
-{"session_id": 701, "sequence": [2, 2, 0, 3, 3, 1, 3]}
-{"session_id": 761, "sequence": [2, 2, 3, 3]}
-{"session_id": 267, "sequence": [1, 2, 0, 2]}
-{"session_id": "bot_1121", "sequence": [0, 1, 3, 2]}
-{"session_id": 331, "sequence": [0, 3, 3, 0, 2, 3, 0]}
-{"session_id": 474, "sequence": [0, 0, 1, 1, 3, 3, 1, 0]}
-{"session_id": 161, "sequence": [2, 0, 3, 0, 1, 1, 3, 1]}
-{"session_id": 613, "sequence": [1, 1, 2, 3, 2, 0]}
-{"session_id": 186, "sequence": [0, 2, 2, 2, 2, 0, 1]}
-{"session_id": 530, "sequence": [3, 1, 2, 3, 3, 3, 2, 0]}
-{"session_id": 524, "sequence": [1, 3, 0, 1, 3, 3, 0, 0]}
-{"session_id": "bot_1002", "sequence": [3, 1, 0, 2]}
-{"session_id": 365, "sequence": [0, 3, 2, 0, 2, 2, 3, 0]}
-{"session_id": 185, "sequence": [0, 1, 1, 0, 0]}
-{"session_id": 248, "sequence": [2, 2, 0, 0, 0]}
-{"session_id": 188, "sequence": [2, 3, 3, 1]}
-{"session_id": 700, "sequence": [2, 2, 1, 2]}
-{"session_id": 793, "sequence": [2, 0, 0, 1, 2, 0, 0, 2]}
-{"session_id": 150, "sequence": [1, 3, 2, 2, 0]}
-{"session_id": 859, "sequence": [3, 2, 1, 0]}
-{"session_id": 481, "sequence": [0, 0, 3, 0, 3]}
-{"session_id": 848, "sequence": [1, 1, 1, 0, 0, 1, 2, 0]}
-{"session_id": 886, "sequence": [2, 2, 2, 1, 2, 1, 1]}
-{"session_id": 255, "sequence": [2, 3, 2, 0, 0, 0]}
-{"session_id": 456, "sequence": [2, 1, 0, 1, 2, 3, 1, 3]}
-{"session_id": 27, "sequence": [1, 2, 0, 1, 2, 1, 2]}
-{"session_id": "bot_1077", "sequence": [1, 3, 2, 0]}
-{"session_id": 918, "sequence": [0, 3, 0, 1, 2]}
-{"session_id": 280, "sequence": [3, 3, 3, 2, 1, 3, 3]}
-{"session_id": "bot_1022", "sequence": [2, 1]}
-{"session_id": 164, "sequence": [2, 3, 0, 3, 1, 0, 1]}
-{"session_id": 928, "sequence": [3, 2, 3, 0, 0, 1, 0, 0]}
-{"session_id": 369, "sequence": [2, 3, 2, 0, 2, 2]}
+{"session_id": 565, "sequence": [3, 3, 0, 0, 0, 0, 0, 3]}
+{"session_id": 394, "sequence": [0, 1, 1, 2, 1]}
+{"session_id": 804, "sequence": [1, 0, 0, 2, 3, 3, 2]}
+{"session_id": "bot_1055", "sequence": [1, 0, 2, 3]}
+{"session_id": 707, "sequence": [0, 1, 3, 2, 3, 0]}
+{"session_id": 203, "sequence": [3, 2, 3, 3, 3, 0, 2]}
+{"session_id": 717, "sequence": [1, 0, 3, 0, 0]}
+{"session_id": 951, "sequence": [0, 3, 2, 3]}
+{"session_id": 594, "sequence": [1, 3, 3, 1, 3]}
+{"session_id": 768, "sequence": [1, 2, 0, 0, 2]}
+{"session_id": 805, "sequence": [3, 1, 3, 2]}
+{"session_id": 735, "sequence": [2, 2, 0, 1, 2, 3, 2]}
+{"session_id": 377, "sequence": [3, 3, 3, 0, 2, 0]}
+{"session_id": 80, "sequence": [2, 0, 3, 2, 0, 0, 0, 2]}
+{"session_id": 854, "sequence": [1, 2, 3, 1, 2, 0]}
+{"session_id": 736, "sequence": [1, 1, 0, 1, 1]}
+{"session_id": 629, "sequence": [3, 3, 3, 3, 2, 3]}
+{"session_id": "bot_1141", "sequence": [3, 2, 0, 1]}
+{"session_id": 547, "sequence": [1, 0, 2, 2, 2, 1, 2]}
+{"session_id": 584, "sequence": [3, 0, 1, 2, 1, 2, 0]}
+{"session_id": "bot_1085", "sequence": [2, 1, 0, 3]}
+{"session_id": 151, "sequence": [0, 0, 2, 1, 1, 3]}
+{"session_id": 489, "sequence": [1, 0, 1, 0, 3]}
+{"session_id": 831, "sequence": [0, 2, 1, 3, 1, 3]}
+{"session_id": 448, "sequence": [2, 2, 3, 1, 3, 2, 3, 3]}
+{"session_id": "bot_1054", "sequence": [2, 0]}
+{"session_id": "bot_1022", "sequence": [2, 1, 3]}
+{"session_id": 435, "sequence": [2, 2, 1, 1, 3]}
+{"session_id": 866, "sequence": [1, 2, 0, 0, 2, 2]}
+{"session_id": 160, "sequence": [3, 2, 1, 2, 3, 1]}
+{"session_id": "bot_1145", "sequence": [3, 2, 1, 0]}
+{"session_id": 800, "sequence": [0, 1, 3, 2, 0, 1]}
+{"session_id": 20, "sequence": [0, 2, 2, 0]}
+{"session_id": 299, "sequence": [1, 0, 0, 0, 1]}
+{"session_id": 211, "sequence": [2, 3, 2, 0, 0, 3, 2]}
+{"session_id": "bot_1122", "sequence": [2, 1, 0, 3]}
+{"session_id": 627, "sequence": [2, 1, 3, 2, 3, 1]}
+{"session_id": 711, "sequence": [1, 2, 3, 0, 0, 3]}
+{"session_id": 803, "sequence": [3, 3, 2, 0, 1, 0]}
+{"session_id": 92, "sequence": [0, 1, 1, 2, 3, 2]}
+{"session_id": 658, "sequence": [0, 0, 2, 1]}
+{"session_id": 249, "sequence": [1, 1, 0, 0, 2, 1, 3]}
+{"session_id": 498, "sequence": [0, 1, 3, 1, 2, 0, 3]}
+{"session_id": 74, "sequence": [3, 0, 2, 2, 2]}
+{"session_id": 916, "sequence": [3, 1, 3, 2, 3, 3]}
+{"session_id": 975, "sequence": [2, 1, 0, 1]}
+{"session_id": 802, "sequence": [1, 1, 3, 1]}
+{"session_id": 878, "sequence": [1, 1, 1, 1, 2, 2, 1]}
+{"session_id": "bot_1040", "sequence": [1, 0]}
+{"session_id": 573, "sequence": [1, 1, 2, 2, 3, 1, 2]}
+{"session_id": 662, "sequence": [2, 2, 0, 0, 0, 2]}
+{"session_id": 205, "sequence": [0, 1, 0, 3]}
+{"session_id": 659, "sequence": [2, 3, 2, 3, 2, 3, 2, 2]}
+{"session_id": 765, "sequence": [3, 2, 1, 0, 2, 3, 3, 2]}
+{"session_id": 362, "sequence": [2, 2, 0, 1, 0, 3]}
+{"session_id": 934, "sequence": [2, 3, 3, 1, 1]}
+{"session_id": 310, "sequence": [1, 2, 2, 2, 1, 2, 2]}
+{"session_id": 412, "sequence": [1, 0, 3, 1]}
+{"session_id": 476, "sequence": [3, 3, 1, 2]}
+{"session_id": 482, "sequence": [2, 3, 2, 1, 1, 2]}
+{"session_id": "bot_1021", "sequence": [3, 1, 0]}
+{"session_id": "bot_1099", "sequence": [3, 0]}
+{"session_id": "bot_1009", "sequence": [2, 1, 3]}
+{"session_id": 799, "sequence": [1, 0, 2, 2, 1, 0, 3, 2]}
+{"session_id": 360, "sequence": [0, 0, 2, 3]}
+{"session_id": 468, "sequence": [2, 3, 1, 0, 0, 0, 2]}
+{"session_id": 595, "sequence": [1, 1, 1, 3, 3, 0, 1]}
+{"session_id": 195, "sequence": [3, 1, 1, 1]}
+{"session_id": 640, "sequence": [2, 0, 1, 1, 1, 1]}
+{"session_id": 434, "sequence": [3, 1, 2, 1, 2, 1, 2, 3]}
+{"session_id": 288, "sequence": [0, 0, 3, 1, 2, 3]}
+{"session_id": 514, "sequence": [0, 0, 3, 3]}
+{"session_id": 810, "sequence": [0, 1, 0, 0, 1, 1]}
+{"session_id": 788, "sequence": [2, 3, 0, 2, 1, 0, 3, 3]}
+{"session_id": 887, "sequence": [1, 2, 0, 1, 2, 0, 0]}
+{"session_id": 808, "sequence": [1, 0, 0, 0, 0, 1]}
+{"session_id": 502, "sequence": [3, 2, 3, 3, 2, 3, 3]}
+{"session_id": 259, "sequence": [3, 2, 0, 0, 1, 1, 1, 1]}
+{"session_id": 214, "sequence": [3, 3, 3, 1, 2, 3]}
+{"session_id": 527, "sequence": [0, 2, 3, 0, 0, 2, 2]}
+{"session_id": 154, "sequence": [1, 0, 0, 3]}
+{"session_id": "bot_1066", "sequence": [0, 1]}
+{"session_id": 691, "sequence": [2, 2, 0, 1, 1, 3, 3]}
+{"session_id": 876, "sequence": [2, 3, 0, 1, 3, 2, 3, 1]}
+{"session_id": 535, "sequence": [2, 3, 2, 1]}
+{"session_id": 330, "sequence": [1, 1, 0, 1, 2, 2, 1, 3]}
+{"session_id": 453, "sequence": [1, 2, 0, 1, 1, 3, 0, 1]}
+{"session_id": 107, "sequence": [2, 2, 1, 0, 3, 3, 3, 1]}
+{"session_id": 10, "sequence": [1, 0, 1, 0]}
+{"session_id": "bot_1098", "sequence": [2, 1, 0]}
+{"session_id": 616, "sequence": [1, 1, 2, 0, 1]}
+{"session_id": 314, "sequence": [1, 2, 0, 1, 2]}
+{"session_id": 865, "sequence": [2, 1, 3, 0, 1]}
+{"session_id": 189, "sequence": [2, 3, 0, 2, 2, 3, 1]}
+{"session_id": 633, "sequence": [2, 0, 1, 3]}
+{"session_id": 192, "sequence": [1, 0, 1, 2]}
+{"session_id": 14, "sequence": [1, 3, 2, 3]}
+{"session_id": 12, "sequence": [0, 3, 2, 3]}
+{"session_id": 168, "sequence": [0, 3, 1, 2, 2, 3, 2, 2]}
+{"session_id": 976, "sequence": [2, 2, 1, 1, 3, 2, 3]}
+{"session_id": 925, "sequence": [2, 1, 3, 2]}
+{"session_id": 343, "sequence": [0, 2, 3, 0, 3, 3, 3]}
+{"session_id": 224, "sequence": [0, 3, 3, 1, 2, 3, 2]}
+{"session_id": 972, "sequence": [0, 2, 1, 1, 3]}
+{"session_id": 867, "sequence": [0, 2, 1, 0, 2]}
+{"session_id": "bot_1129", "sequence": [0, 3, 2]}
+{"session_id": 807, "sequence": [3, 1, 2, 2, 1, 3, 3]}
+{"session_id": 108, "sequence": [3, 1, 3, 0]}
+{"session_id": 325, "sequence": [2, 2, 2, 1, 3, 1, 2]}
+{"session_id": 405, "sequence": [3, 2, 3, 0, 2, 2, 3]}
+{"session_id": 28, "sequence": [2, 3, 2, 2, 0, 0]}
+{"session_id": 609, "sequence": [3, 3, 3, 3, 1, 3, 0, 1]}
+{"session_id": 260, "sequence": [1, 1, 3, 3, 2, 0]}
+{"session_id": 744, "sequence": [3, 3, 1, 3, 1]}
+{"session_id": "bot_1048", "sequence": [0, 2, 3, 1]}
+{"session_id": 313, "sequence": [1, 0, 3, 0, 1]}
+{"session_id": 562, "sequence": [3, 3, 0, 0, 0, 1]}
+{"session_id": 586, "sequence": [1, 0, 0, 2, 3, 1]}
+{"session_id": 126, "sequence": [2, 3, 0, 3]}
+{"session_id": 61, "sequence": [3, 3, 3, 3, 0]}
+{"session_id": 532, "sequence": [2, 2, 2, 1]}
+{"session_id": 304, "sequence": [3, 1, 2, 1, 2, 3]}
+{"session_id": "bot_1115", "sequence": [3, 1, 2]}
+{"session_id": 331, "sequence": [3, 0, 3, 2, 1]}
+{"session_id": 817, "sequence": [3, 2, 3, 3, 1]}
+{"session_id": 57, "sequence": [2, 1, 1, 3, 1]}
+{"session_id": 815, "sequence": [2, 2, 3, 0, 3, 0]}
+{"session_id": 818, "sequence": [1, 2, 1, 3]}
+{"session_id": 122, "sequence": [1, 0, 2, 3, 1]}
+{"session_id": 695, "sequence": [2, 3, 3, 1, 0, 3, 1, 0]}
+{"session_id": 407, "sequence": [2, 1, 3, 1]}
+{"session_id": 572, "sequence": [3, 1, 0, 2]}
+{"session_id": 161, "sequence": [3, 0, 2, 0, 2, 0, 0]}
+{"session_id": 738, "sequence": [0, 1, 2, 2, 1]}
+{"session_id": 682, "sequence": [1, 0, 2, 2, 0]}
+{"session_id": 68, "sequence": [3, 0, 0, 3, 3]}
+{"session_id": 171, "sequence": [0, 2, 0, 1, 2]}
+{"session_id": "bot_1140", "sequence": [2, 1]}
+{"session_id": 36, "sequence": [2, 2, 1, 0, 1]}
+{"session_id": 286, "sequence": [1, 2, 2, 3, 0, 3, 1, 1]}
+{"session_id": "bot_1016", "sequence": [3, 2, 1]}
+{"session_id": 556, "sequence": [2, 3, 1, 1, 0, 2]}
+{"session_id": 347, "sequence": [2, 3, 0, 0, 3]}
+{"session_id": "bot_1097", "sequence": [3, 1]}
+{"session_id": "bot_1137", "sequence": [1, 0, 3, 2]}
+{"session_id": 770, "sequence": [3, 3, 2, 1, 1, 3]}
+{"session_id": 931, "sequence": [3, 0, 3, 2, 3, 1, 3]}
+{"session_id": 922, "sequence": [0, 3, 1, 3, 2, 2, 1]}
+{"session_id": 598, "sequence": [1, 3, 3, 0]}
+{"session_id": 444, "sequence": [1, 2, 1, 3, 3, 2]}
+{"session_id": 993, "sequence": [0, 0, 2, 0, 1, 0]}
+{"session_id": 458, "sequence": [3, 2, 2, 1, 0, 3, 2, 2]}
+{"session_id": 946, "sequence": [3, 3, 1, 1]}
+{"session_id": 795, "sequence": [2, 0, 0, 2, 2, 2]}
+{"session_id": 185, "sequence": [3, 3, 1, 0]}
+{"session_id": 614, "sequence": [1, 3, 3, 1, 1, 1]}
+{"session_id": 365, "sequence": [3, 1, 1, 0]}
+{"session_id": 58, "sequence": [3, 3, 2, 0, 2, 2, 1, 3]}
+{"session_id": 892, "sequence": [0, 2, 2, 3]}
+{"session_id": 294, "sequence": [1, 0, 2, 2, 0, 3, 2, 1]}
+{"session_id": 399, "sequence": [0, 2, 3, 0]}
+{"session_id": 734, "sequence": [1, 2, 2, 1, 3, 2]}
+{"session_id": 603, "sequence": [3, 3, 2, 1, 3, 1]}
+{"session_id": 746, "sequence": [2, 0, 1, 2, 1]}
+{"session_id": "bot_1074", "sequence": [0, 1]}
+{"session_id": 451, "sequence": [2, 1, 3, 0, 0, 3, 3, 2]}
+{"session_id": "bot_1130", "sequence": [0, 1]}
+{"session_id": 78, "sequence": [3, 0, 0, 0]}
+{"session_id": 328, "sequence": [1, 0, 1, 0, 3, 2, 3, 0]}
+{"session_id": 426, "sequence": [3, 0, 1, 3, 3, 1, 1]}
+{"session_id": 53, "sequence": [0, 0, 0, 0]}
+{"session_id": 319, "sequence": [3, 3, 0, 3, 0, 2, 1]}
+{"session_id": 296, "sequence": [2, 3, 1, 2]}
+{"session_id": 110, "sequence": [3, 2, 3, 0]}
+{"session_id": 433, "sequence": [3, 3, 0, 2, 3, 0, 1]}
+{"session_id": 461, "sequence": [2, 1, 1, 1, 3, 0]}
+{"session_id": 380, "sequence": [1, 3, 3, 0, 2, 3, 1, 0]}
+{"session_id": 438, "sequence": [2, 0, 1, 1, 0, 1, 1]}
+{"session_id": 868, "sequence": [1, 2, 0, 2, 0]}
+{"session_id": 333, "sequence": [1, 3, 1, 2, 0, 1, 3]}
+{"session_id": 264, "sequence": [2, 1, 3, 1, 2]}
+{"session_id": 0, "sequence": [0, 3, 3, 2, 1]}
+{"session_id": 158, "sequence": [0, 1, 1, 2]}
+{"session_id": 568, "sequence": [3, 0, 2, 3, 2, 0, 2]}
+{"session_id": 954, "sequence": [2, 3, 3, 2, 3, 2, 1]}
+{"session_id": 165, "sequence": [3, 3, 1, 1, 0, 2, 2]}
+{"session_id": 1, "sequence": [2, 3, 1, 3, 1, 0, 1]}
+{"session_id": 72, "sequence": [2, 2, 1, 3, 2, 3, 0]}
+{"session_id": 740, "sequence": [1, 1, 1, 2, 0, 0, 2]}
+{"session_id": 422, "sequence": [1, 2, 0, 1, 1, 0, 3, 3]}
+{"session_id": 789, "sequence": [1, 1, 1, 0, 2, 1, 0, 1]}
+{"session_id": "bot_1123", "sequence": [1, 0, 3, 2]}
+{"session_id": 416, "sequence": [3, 3, 2, 1, 3, 0, 1, 1]}
+{"session_id": 543, "sequence": [3, 0, 2, 2, 1]}
+{"session_id": "bot_1120", "sequence": [0, 1, 3, 2]}
+{"session_id": 814, "sequence": [3, 0, 3, 0, 2, 2, 2]}
+{"session_id": 466, "sequence": [3, 0, 2, 0, 1, 0, 3]}
+{"session_id": 341, "sequence": [2, 0, 1, 2]}
+{"session_id": 427, "sequence": [2, 2, 3, 0, 1, 2]}
+{"session_id": 610, "sequence": [0, 3, 2, 2, 1]}
+{"session_id": 955, "sequence": [1, 1, 1, 3]}
+{"session_id": 178, "sequence": [1, 2, 1, 2, 1, 1, 2]}
+{"session_id": 43, "sequence": [3, 0, 0, 0, 0]}
+{"session_id": 832, "sequence": [2, 2, 3, 3]}
+{"session_id": 267, "sequence": [3, 3, 0, 0, 2]}
+{"session_id": 939, "sequence": [0, 2, 3, 0, 3, 3, 0]}
+{"session_id": 830, "sequence": [2, 1, 3, 1, 2, 3]}
+{"session_id": "bot_1148", "sequence": [0, 2, 3]}
+{"session_id": 282, "sequence": [1, 0, 1, 1, 3, 1, 1, 2]}
+{"session_id": 521, "sequence": [1, 0, 3, 2, 3, 1, 0, 0]}
+{"session_id": 551, "sequence": [1, 1, 1, 2, 2, 0, 3, 3]}
+{"session_id": 906, "sequence": [2, 0, 3, 2, 0, 2, 0]}
+{"session_id": 726, "sequence": [0, 0, 2, 0]}
+{"session_id": 813, "sequence": [2, 3, 3, 3, 0, 2]}
+{"session_id": 798, "sequence": [1, 2, 3, 1, 3, 1]}
+{"session_id": 891, "sequence": [1, 2, 0, 2, 0, 3, 2, 3]}
+{"session_id": 59, "sequence": [1, 3, 1, 0, 1, 3]}
+{"session_id": 385, "sequence": [1, 3, 1, 2, 2, 0, 0]}
+{"session_id": 311, "sequence": [1, 3, 1, 1, 3, 0, 2]}
+{"session_id": 423, "sequence": [2, 1, 0, 1, 1, 3, 1, 0]}
+{"session_id": 388, "sequence": [0, 2, 3, 0, 0, 1, 2, 1]}
+{"session_id": 356, "sequence": [3, 0, 0, 0, 2, 1, 0, 2]}
+{"session_id": 697, "sequence": [0, 1, 0, 1, 2, 0, 1]}
+{"session_id": 342, "sequence": [1, 2, 0, 3, 3]}
+{"session_id": 723, "sequence": [0, 3, 0, 2]}
+{"session_id": 351, "sequence": [2, 0, 2, 3, 3]}
+{"session_id": "bot_1135", "sequence": [1, 3]}
+{"session_id": 83, "sequence": [1, 0, 1, 2, 1, 2]}
+{"session_id": 650, "sequence": [0, 0, 2, 2, 1, 0]}
+{"session_id": 418, "sequence": [0, 0, 0, 0, 2]}
+{"session_id": 690, "sequence": [3, 2, 1, 1, 2, 2]}
+{"session_id": 944, "sequence": [1, 0, 0, 0, 1, 0, 3, 2]}
+{"session_id": 825, "sequence": [3, 1, 3, 0, 0, 0]}
+{"session_id": 960, "sequence": [3, 0, 0, 2, 2, 1]}
+{"session_id": 95, "sequence": [2, 3, 0, 0, 1]}
+{"session_id": 503, "sequence": [2, 1, 1, 1, 2]}
+{"session_id": 877, "sequence": [2, 2, 1, 2, 1]}
+{"session_id": "bot_1049", "sequence": [2, 0]}
+{"session_id": 428, "sequence": [3, 2, 2, 2]}
+{"session_id": 204, "sequence": [1, 0, 2, 3, 1, 3, 0]}
+{"session_id": 646, "sequence": [0, 2, 0, 1, 3, 2, 1]}
+{"session_id": 965, "sequence": [0, 2, 1, 0]}
+{"session_id": "bot_1001", "sequence": [0, 3, 2]}
+{"session_id": "bot_1149", "sequence": [0, 1]}
+{"session_id": 704, "sequence": [3, 0, 2, 0, 2, 0, 0]}
+{"session_id": "bot_1119", "sequence": [1, 0]}
+{"session_id": 367, "sequence": [3, 2, 2, 0, 2]}
+{"session_id": 217, "sequence": [2, 1, 2, 1, 3, 3, 2, 0]}
+{"session_id": 464, "sequence": [3, 3, 1, 3]}
+{"session_id": 967, "sequence": [0, 3, 2, 3]}
+{"session_id": 274, "sequence": [2, 0, 2, 3, 1, 2, 0]}
+{"session_id": 366, "sequence": [2, 3, 0, 3, 0, 2, 2]}
+{"session_id": 243, "sequence": [0, 3, 0, 1, 3, 1, 0]}
+{"session_id": 449, "sequence": [0, 0, 2, 2, 2, 1, 2, 3]}
+{"session_id": 775, "sequence": [0, 1, 2, 1, 2, 0, 2]}
+{"session_id": 632, "sequence": [2, 3, 0, 0, 2]}
+{"session_id": 559, "sequence": [2, 2, 2, 2, 2]}
+{"session_id": "bot_1088", "sequence": [0, 1]}
+{"session_id": 905, "sequence": [3, 2, 1, 0, 2, 3, 2]}
+{"session_id": 989, "sequence": [3, 3, 2, 0, 0, 3]}
+{"session_id": "bot_1103", "sequence": [2, 0, 1, 3]}
+{"session_id": 848, "sequence": [0, 0, 1, 3, 3, 2]}
+{"session_id": 620, "sequence": [1, 0, 0, 2, 2, 2]}
+{"session_id": 298, "sequence": [0, 2, 0, 0, 3, 1, 0]}
+{"session_id": 40, "sequence": [2, 1, 1, 2, 1, 0]}
+{"session_id": 886, "sequence": [2, 2, 0, 2]}
+{"session_id": 430, "sequence": [2, 0, 1, 0, 1, 3, 3]}
+{"session_id": 89, "sequence": [0, 3, 0, 2]}
+{"session_id": 87, "sequence": [2, 3, 0, 2]}
+{"session_id": 84, "sequence": [1, 0, 1, 1, 3, 0, 0]}
+{"session_id": 429, "sequence": [0, 0, 2, 3]}
+{"session_id": 364, "sequence": [1, 3, 0, 3, 3, 2]}
+{"session_id": 156, "sequence": [1, 2, 0, 0, 3, 3, 3]}
+{"session_id": 485, "sequence": [1, 3, 0, 2, 3, 3]}
+{"session_id": 255, "sequence": [1, 2, 3, 3, 2, 1]}
+{"session_id": 987, "sequence": [3, 0, 2, 0, 3, 2, 1]}
+{"session_id": 715, "sequence": [1, 2, 1, 0, 1, 0, 3, 2]}
+{"session_id": 86, "sequence": [2, 3, 3, 2, 2, 3]}
+{"session_id": 170, "sequence": [0, 3, 2, 2, 3, 2, 2, 3]}
+{"session_id": 879, "sequence": [2, 0, 3, 1, 3, 0, 2, 2]}
+{"session_id": 861, "sequence": [0, 2, 3, 1]}
+{"session_id": 103, "sequence": [0, 3, 0, 2, 2]}
+{"session_id": 497, "sequence": [1, 2, 3, 0]}
+{"session_id": "bot_1136", "sequence": [1, 3, 2, 0]}
+{"session_id": 661, "sequence": [1, 0, 3, 3, 1, 1, 1, 2]}
+{"session_id": 561, "sequence": [0, 1, 1, 3]}
+{"session_id": 419, "sequence": [2, 3, 1, 3, 1, 0, 3, 3]}
+{"session_id": 73, "sequence": [1, 0, 2, 3]}
+{"session_id": "bot_1102", "sequence": [2, 0, 3]}
+{"session_id": 974, "sequence": [2, 2, 0, 3, 1]}
+{"session_id": "bot_1050", "sequence": [3, 1, 0]}
+{"session_id": 710, "sequence": [2, 0, 2, 3, 1]}
+{"session_id": 406, "sequence": [1, 0, 2, 1, 2, 0, 0, 2]}
+{"session_id": 17, "sequence": [1, 2, 0, 0, 0]}
+{"session_id": 301, "sequence": [3, 0, 1, 3, 1, 2, 1, 0]}
+{"session_id": 829, "sequence": [3, 2, 1, 0, 3, 0]}
+{"session_id": 338, "sequence": [3, 3, 3, 0, 0, 2, 0]}
+{"session_id": 625, "sequence": [3, 2, 3, 3, 1, 3]}
+{"session_id": 915, "sequence": [1, 3, 3, 0, 0]}
+{"session_id": 962, "sequence": [3, 2, 0, 0, 2, 2, 1]}
+{"session_id": 166, "sequence": [3, 0, 0, 3, 1, 1, 1, 3]}
+{"session_id": 463, "sequence": [3, 2, 3, 2, 0]}
+{"session_id": 219, "sequence": [3, 3, 3, 2, 3, 3, 1]}
+{"session_id": 322, "sequence": [2, 1, 2, 3]}
+{"session_id": 528, "sequence": [1, 3, 1, 1, 2, 3, 3]}
+{"session_id": 846, "sequence": [0, 1, 1, 0, 0, 2, 3]}
+{"session_id": 546, "sequence": [1, 3, 1, 2]}
+{"session_id": 757, "sequence": [2, 2, 0, 3, 0, 0, 0, 2]}
+{"session_id": 856, "sequence": [1, 1, 0, 2, 0, 2, 0, 2]}
+{"session_id": 700, "sequence": [0, 1, 2, 0, 0, 1, 2]}
+{"session_id": 390, "sequence": [0, 2, 0, 2]}
+{"session_id": 457, "sequence": [2, 1, 2, 1, 0, 0, 0, 0]}
+{"session_id": 555, "sequence": [2, 0, 3, 3, 0]}
+{"session_id": 66, "sequence": [0, 0, 3, 2, 1]}
+{"session_id": "bot_1035", "sequence": [3, 1, 0]}
+{"session_id": 354, "sequence": [2, 2, 3, 2]}
+{"session_id": 816, "sequence": [1, 1, 3, 2, 0, 1]}
+{"session_id": 132, "sequence": [0, 3, 1, 0, 2, 2, 2]}
+{"session_id": 81, "sequence": [1, 0, 1, 3]}
+{"session_id": 265, "sequence": [1, 0, 2, 0, 3, 1, 0]}
+{"session_id": 928, "sequence": [0, 0, 2, 2, 2, 1, 2]}
+{"session_id": 49, "sequence": [3, 1, 1, 0]}
+{"session_id": 19, "sequence": [1, 1, 3, 0, 2, 3]}
+{"session_id": 771, "sequence": [2, 2, 2, 3]}
+{"session_id": 142, "sequence": [1, 3, 2, 3]}
+{"session_id": 76, "sequence": [1, 3, 0, 0]}
+{"session_id": 705, "sequence": [2, 3, 3, 2, 2, 3, 3, 2]}
+{"session_id": 959, "sequence": [1, 1, 3, 1, 2, 0]}
+{"session_id": 162, "sequence": [1, 0, 2, 2, 0]}
+{"session_id": 604, "sequence": [1, 0, 1, 3, 2]}
+{"session_id": "bot_1026", "sequence": [0, 1, 3, 2]}
+{"session_id": 706, "sequence": [1, 1, 3, 1, 3, 2, 1]}
+{"session_id": "bot_1057", "sequence": [3, 1, 0, 2]}
+{"session_id": 988, "sequence": [1, 0, 1, 3]}
+{"session_id": 917, "sequence": [1, 1, 2, 1, 0, 0, 1]}
+{"session_id": 374, "sequence": [2, 1, 3, 1, 1, 2]}
+{"session_id": "bot_1081", "sequence": [1, 2, 0, 3]}
+{"session_id": 560, "sequence": [1, 2, 2, 2, 0, 3, 3]}
+{"session_id": 554, "sequence": [2, 3, 1, 1, 3, 2, 3, 1]}
+{"session_id": 599, "sequence": [1, 3, 2, 3, 3, 0]}
+{"session_id": 197, "sequence": [3, 2, 2, 2, 3, 1, 3]}
+{"session_id": 542, "sequence": [1, 0, 2, 0, 3]}
+{"session_id": 647, "sequence": [3, 0, 3, 3]}
+{"session_id": 486, "sequence": [2, 3, 2, 2, 2, 2, 2, 0]}
+{"session_id": 315, "sequence": [3, 0, 1, 1, 3, 1]}
+{"session_id": 742, "sequence": [2, 1, 2, 3]}
+{"session_id": 105, "sequence": [0, 3, 0, 0, 3]}
+{"session_id": 64, "sequence": [0, 0, 0, 1, 2, 2]}
+{"session_id": 3, "sequence": [2, 2, 2, 3, 1, 1]}
+{"session_id": 843, "sequence": [3, 1, 1, 0, 0, 3, 2]}
+{"session_id": 694, "sequence": [0, 1, 1, 3, 3, 3, 0]}
+{"session_id": 455, "sequence": [3, 2, 3, 3]}
+{"session_id": "bot_1132", "sequence": [1, 3, 2]}
+{"session_id": 149, "sequence": [1, 0, 2, 3, 3, 2, 3]}
+{"session_id": 355, "sequence": [3, 0, 3, 3, 0]}
+{"session_id": 491, "sequence": [0, 2, 0, 1, 1, 1]}
+{"session_id": 408, "sequence": [0, 0, 1, 1, 2]}
+{"session_id": 881, "sequence": [0, 3, 1, 1, 3, 0, 1, 3]}
+{"session_id": 888, "sequence": [3, 1, 3, 3, 1]}
+{"session_id": 371, "sequence": [1, 1, 3, 2, 3, 0, 0, 0]}
+{"session_id": 591, "sequence": [0, 3, 2, 3, 0]}
+{"session_id": 469, "sequence": [0, 0, 1, 2, 3]}
+{"session_id": 779, "sequence": [1, 2, 0, 0, 3]}
+{"session_id": 842, "sequence": [2, 2, 1, 3, 3, 0]}
+{"session_id": 164, "sequence": [2, 1, 3, 3]}
+{"session_id": 420, "sequence": [1, 3, 1, 0]}
+{"session_id": 639, "sequence": [3, 3, 0, 3, 1]}
 {"session_id": "bot_1020", "sequence": [2, 0]}
-{"session_id": 415, "sequence": [2, 2, 2, 3]}
-{"session_id": 831, "sequence": [2, 1, 3, 1, 3, 1]}
-{"session_id": 641, "sequence": [3, 3, 2, 3, 0, 3, 0, 1]}
-{"session_id": 994, "sequence": [3, 0, 1, 2, 2, 2, 3, 0]}
-{"session_id": 143, "sequence": [3, 3, 3, 2, 3, 0, 1]}
-{"session_id": "bot_1053", "sequence": [1, 3, 0]}
-{"session_id": 691, "sequence": [2, 2, 3, 2]}
-{"session_id": 939, "sequence": [1, 1, 2, 1, 0]}
-{"session_id": 621, "sequence": [0, 0, 3, 1, 1, 1, 2, 0]}
-{"session_id": 581, "sequence": [0, 1, 2, 3, 1]}
-{"session_id": 256, "sequence": [3, 0, 3, 0, 0, 3, 0, 1]}
-{"session_id": 522, "sequence": [1, 1, 3, 3, 1]}
-{"session_id": "bot_1122", "sequence": [3, 1, 0]}
-{"session_id": 326, "sequence": [1, 2, 3, 3, 0, 1, 1, 2]}
-{"session_id": 11, "sequence": [2, 1, 1, 1, 1, 2, 2, 2]}
-{"session_id": 413, "sequence": [3, 0, 0, 3]}
-{"session_id": "bot_1105", "sequence": [0, 1, 3]}
-{"session_id": 33, "sequence": [0, 2, 1, 3, 2, 0]}
-{"session_id": 835, "sequence": [0, 2, 0, 1]}
-{"session_id": 594, "sequence": [0, 1, 2, 3]}
-{"session_id": 450, "sequence": [0, 3, 2, 1, 0, 0, 1]}
-{"session_id": 440, "sequence": [0, 2, 1, 1]}
-{"session_id": 125, "sequence": [0, 0, 2, 0, 1, 2, 0]}
-{"session_id": 703, "sequence": [1, 2, 1, 1]}
-{"session_id": 797, "sequence": [1, 0, 0, 2]}
-{"session_id": "bot_1046", "sequence": [3, 2, 1]}
-{"session_id": "bot_1013", "sequence": [3, 1, 0, 2]}
-{"session_id": 99, "sequence": [2, 3, 1, 2, 3, 0]}
-{"session_id": 427, "sequence": [1, 1, 2, 2]}
-{"session_id": 364, "sequence": [0, 0, 3, 0, 2]}
-{"session_id": 534, "sequence": [1, 0, 0, 1, 1, 2]}
-{"session_id": 132, "sequence": [3, 2, 2, 0, 2, 1]}
+{"session_id": 821, "sequence": [1, 2, 2, 2, 0, 0]}
+{"session_id": 801, "sequence": [3, 3, 3, 0, 3, 2]}
+{"session_id": "bot_1147", "sequence": [1, 2, 0]}
+{"session_id": 97, "sequence": [1, 1, 2, 3, 0, 1, 0]}
+{"session_id": 611, "sequence": [3, 2, 2, 3, 2, 0, 1]}
+{"session_id": 302, "sequence": [3, 0, 0, 2, 2]}
+{"session_id": 644, "sequence": [2, 0, 2, 0, 1, 2]}
+{"session_id": 190, "sequence": [1, 3, 0, 3]}
+{"session_id": 290, "sequence": [1, 1, 0, 1, 2, 3, 3]}
+{"session_id": 790, "sequence": [0, 3, 1, 3, 2, 0, 3, 0]}
+{"session_id": 312, "sequence": [2, 0, 0, 3, 2, 1, 2]}
+{"session_id": 119, "sequence": [0, 3, 2, 2, 1]}
+{"session_id": 526, "sequence": [0, 1, 1, 2, 2, 3, 3, 3]}
+{"session_id": "bot_1028", "sequence": [1, 0]}
+{"session_id": 577, "sequence": [2, 2, 2, 0, 0, 0, 0, 3]}
+{"session_id": 247, "sequence": [3, 3, 2, 0, 0, 2]}
+{"session_id": 956, "sequence": [0, 3, 0, 0, 2, 1]}
+{"session_id": 794, "sequence": [0, 0, 2, 0, 3, 0, 2, 3]}
+{"session_id": "bot_1125", "sequence": [1, 3, 2]}
+{"session_id": 389, "sequence": [0, 2, 2, 1, 3, 3, 1]}
+{"session_id": "bot_1083", "sequence": [1, 0, 2]}
+{"session_id": 545, "sequence": [0, 2, 0, 3]}
+{"session_id": 271, "sequence": [1, 0, 1, 1, 0, 3, 1, 1]}
+{"session_id": 69, "sequence": [2, 1, 2, 0, 0, 3, 2]}
+{"session_id": 864, "sequence": [1, 0, 1, 0, 1]}
+{"session_id": 601, "sequence": [0, 0, 0, 2, 3, 2, 3]}
+{"session_id": 478, "sequence": [2, 0, 1, 2, 1]}
+{"session_id": 207, "sequence": [3, 2, 0, 3, 1]}
+{"session_id": 913, "sequence": [2, 0, 2, 2, 1]}
+{"session_id": 186, "sequence": [2, 0, 3, 2]}
+{"session_id": 82, "sequence": [2, 1, 2, 2, 1, 3, 3]}
+{"session_id": 852, "sequence": [2, 1, 1, 2, 2, 2, 2]}
+{"session_id": 392, "sequence": [2, 3, 2, 0]}
+{"session_id": 415, "sequence": [2, 3, 0, 3, 2]}
+{"session_id": "bot_1110", "sequence": [0, 3]}
+{"session_id": 641, "sequence": [0, 0, 3, 0, 1, 3]}
+{"session_id": 387, "sequence": [2, 3, 1, 1]}
+{"session_id": 90, "sequence": [3, 3, 0, 3, 2]}
+{"session_id": 537, "sequence": [0, 0, 3, 0]}
+{"session_id": 585, "sequence": [2, 1, 1, 1, 2, 0, 3]}
+{"session_id": 112, "sequence": [2, 0, 1, 0, 0, 2, 3, 2]}
+{"session_id": 8, "sequence": [3, 3, 2, 2, 0]}
+{"session_id": 904, "sequence": [1, 0, 1, 3, 2, 3, 1, 2]}
+{"session_id": 874, "sequence": [1, 0, 0, 1]}
+{"session_id": 631, "sequence": [1, 2, 3, 1]}
+{"session_id": 992, "sequence": [2, 3, 0, 1]}
+{"session_id": "bot_1053", "sequence": [2, 1]}
+{"session_id": 254, "sequence": [3, 3, 1, 3, 1, 0, 3, 1]}
+{"session_id": 571, "sequence": [3, 2, 2, 2, 1, 2, 3, 2]}
+{"session_id": 684, "sequence": [0, 2, 2, 2, 3]}
+{"session_id": 668, "sequence": [2, 3, 0, 0, 2, 3]}
+{"session_id": 307, "sequence": [1, 2, 3, 0, 3, 0, 0]}
+{"session_id": "bot_1024", "sequence": [1, 3, 2, 0]}
+{"session_id": "bot_1023", "sequence": [2, 0, 1]}
+{"session_id": 350, "sequence": [3, 1, 1, 0, 3, 2]}
+{"session_id": 858, "sequence": [3, 2, 3, 0]}
+{"session_id": 520, "sequence": [3, 1, 0, 3, 1, 1]}
+{"session_id": 557, "sequence": [2, 3, 0, 3, 1, 2]}
+{"session_id": "bot_1010", "sequence": [3, 1, 0, 2]}
+{"session_id": 580, "sequence": [0, 3, 1, 2, 2]}
+{"session_id": 320, "sequence": [1, 2, 2, 0]}
+{"session_id": "bot_1084", "sequence": [2, 1, 0, 3]}
+{"session_id": 443, "sequence": [3, 2, 3, 1, 2, 1, 1]}
+{"session_id": 997, "sequence": [3, 1, 1, 0, 1, 1, 3, 3]}
+{"session_id": 130, "sequence": [3, 3, 1, 3, 0, 1, 2]}
+{"session_id": 853, "sequence": [1, 3, 1, 1, 2, 3, 0, 1]}
+{"session_id": 337, "sequence": [0, 2, 0, 2, 0, 3, 1, 0]}
+{"session_id": "bot_1042", "sequence": [0, 2, 1]}
+{"session_id": 280, "sequence": [2, 1, 2, 3, 3, 2, 0]}
+{"session_id": 660, "sequence": [3, 1, 2, 0, 3, 2]}
+{"session_id": 672, "sequence": [0, 3, 2, 1, 3, 2, 3]}
+{"session_id": 121, "sequence": [2, 0, 3, 0, 0, 2]}
+{"session_id": 308, "sequence": [1, 0, 1, 0, 2, 2]}
+{"session_id": 353, "sequence": [2, 3, 3, 0, 0]}
+{"session_id": 144, "sequence": [0, 3, 0, 2, 3, 3, 2]}
+{"session_id": 163, "sequence": [0, 3, 1, 1, 1, 0]}
+{"session_id": "bot_1117", "sequence": [2, 1, 3]}
+{"session_id": 534, "sequence": [3, 1, 0, 3, 3, 0]}
+{"session_id": "bot_1046", "sequence": [0, 1, 2, 3]}
+{"session_id": 669, "sequence": [1, 2, 3, 1, 3, 3, 3, 3]}
+{"session_id": 667, "sequence": [2, 3, 0, 1, 2, 3, 0]}
+{"session_id": 124, "sequence": [0, 3, 0, 1, 3, 1, 0, 1]}
+{"session_id": 436, "sequence": [2, 1, 3, 1]}
+{"session_id": "bot_1068", "sequence": [3, 2, 1]}
+{"session_id": 618, "sequence": [3, 0, 1, 1, 1, 1, 2, 0]}
+{"session_id": 645, "sequence": [0, 0, 3, 3, 2, 2, 3]}
+{"session_id": 737, "sequence": [3, 1, 2, 1, 0, 1, 2]}
+{"session_id": "bot_1082", "sequence": [3, 0, 2, 1]}
+{"session_id": 918, "sequence": [0, 0, 1, 2, 1]}
+{"session_id": "bot_1067", "sequence": [0, 3]}
+{"session_id": 785, "sequence": [2, 1, 3, 3, 0, 1, 1, 1]}
+{"session_id": 894, "sequence": [0, 3, 2, 1, 0, 1, 2, 2]}
+{"session_id": 911, "sequence": [0, 3, 0, 1, 1, 2, 1]}
+{"session_id": 984, "sequence": [3, 3, 2, 3, 1, 1]}
+{"session_id": 173, "sequence": [1, 3, 1, 3, 3, 0, 1]}
+{"session_id": 306, "sequence": [1, 2, 3, 1, 3, 2, 3]}
+{"session_id": 754, "sequence": [1, 1, 2, 0]}
+{"session_id": 983, "sequence": [3, 0, 1, 1, 0, 0, 3, 2]}
+{"session_id": 462, "sequence": [0, 1, 0, 0, 0, 2]}
+{"session_id": 792, "sequence": [1, 1, 3, 3, 3, 3, 2]}
+{"session_id": 11, "sequence": [0, 3, 3, 2, 0, 3, 0, 0]}
+{"session_id": "bot_1143", "sequence": [2, 0, 1]}
+{"session_id": 223, "sequence": [0, 3, 1, 3]}
+{"session_id": 613, "sequence": [1, 1, 3, 3, 3]}
+{"session_id": 504, "sequence": [1, 0, 3, 2]}
+{"session_id": 50, "sequence": [3, 3, 3, 1]}
+{"session_id": 938, "sequence": [3, 0, 0, 3, 2, 0]}
+{"session_id": 583, "sequence": [0, 0, 1, 2, 1, 3]}
+{"session_id": 941, "sequence": [1, 3, 2, 1]}
+{"session_id": 348, "sequence": [2, 0, 2, 1]}
+{"session_id": 607, "sequence": [3, 1, 2, 3]}
+{"session_id": 467, "sequence": [1, 0, 2, 3, 1, 1, 0]}
+{"session_id": 6, "sequence": [2, 2, 0, 1]}
+{"session_id": 21, "sequence": [0, 2, 2, 1, 0, 1, 0]}
+{"session_id": 184, "sequence": [3, 1, 2, 1, 3]}
+{"session_id": 699, "sequence": [0, 2, 2, 1]}
+{"session_id": 689, "sequence": [0, 3, 3, 3, 3, 0]}
+{"session_id": 383, "sequence": [3, 3, 0, 3, 3, 2, 2, 3]}
+{"session_id": 34, "sequence": [3, 3, 1, 0, 1, 0]}
+{"session_id": 379, "sequence": [0, 2, 0, 0]}
+{"session_id": "bot_1029", "sequence": [3, 0, 2, 1]}
+{"session_id": 912, "sequence": [2, 1, 0, 3, 2, 2]}
+{"session_id": 218, "sequence": [2, 1, 3, 3]}
+{"session_id": 566, "sequence": [3, 1, 0, 2, 3]}
+{"session_id": 793, "sequence": [0, 3, 0, 1]}
+{"session_id": 295, "sequence": [2, 0, 1, 0, 2, 1]}
+{"session_id": 39, "sequence": [1, 1, 0, 3, 3, 1, 1]}
+{"session_id": 176, "sequence": [3, 0, 2, 0, 0]}
+{"session_id": 716, "sequence": [2, 1, 0, 0, 2, 1]}
+{"session_id": 201, "sequence": [2, 2, 2, 1, 2, 3, 1, 3]}
+{"session_id": 46, "sequence": [1, 2, 3, 1]}
+{"session_id": 963, "sequence": [3, 3, 1, 2, 2]}
+{"session_id": 837, "sequence": [1, 1, 1, 0, 1, 2]}
+{"session_id": 484, "sequence": [1, 1, 3, 3, 1, 1, 3, 0]}
+{"session_id": 722, "sequence": [3, 0, 0, 2, 3]}
+{"session_id": 75, "sequence": [3, 0, 0, 0, 0, 0]}
+{"session_id": 651, "sequence": [2, 3, 2, 0, 2, 0]}
+{"session_id": 439, "sequence": [3, 1, 0, 2, 2, 0, 1]}
+{"session_id": 191, "sequence": [1, 0, 1, 2, 0, 1]}
+{"session_id": 673, "sequence": [2, 2, 3, 1, 1, 3]}
+{"session_id": 30, "sequence": [1, 1, 1, 1, 2, 3, 2, 0]}
+{"session_id": 228, "sequence": [2, 3, 1, 1]}
+{"session_id": 924, "sequence": [1, 1, 2, 2, 0, 2]}
+{"session_id": 487, "sequence": [1, 3, 2, 1, 0, 2]}
+{"session_id": 720, "sequence": [1, 1, 3, 0, 3, 3]}
+{"session_id": 96, "sequence": [2, 1, 3, 2, 0, 1]}
+{"session_id": 506, "sequence": [1, 1, 1, 3]}
+{"session_id": 612, "sequence": [0, 1, 0, 3, 2]}
+{"session_id": 518, "sequence": [0, 0, 2, 1, 2, 1, 1]}
+{"session_id": 635, "sequence": [3, 1, 2, 1, 1, 0, 1, 0]}
+{"session_id": 493, "sequence": [1, 2, 0, 2, 3, 0, 1]}
+{"session_id": 309, "sequence": [0, 3, 0, 2]}
+{"session_id": 826, "sequence": [2, 1, 2, 3, 3, 3, 3, 1]}
+{"session_id": 897, "sequence": [1, 3, 1, 3, 0]}
+{"session_id": 761, "sequence": [1, 0, 3, 2, 0, 1, 2]}
+{"session_id": 883, "sequence": [3, 2, 3, 3]}
+{"session_id": "bot_1002", "sequence": [2, 3]}
+{"session_id": 903, "sequence": [3, 2, 2, 2]}
+{"session_id": 653, "sequence": [2, 3, 0, 0, 0, 2, 3]}
+{"session_id": 445, "sequence": [0, 3, 1, 0, 2]}
+{"session_id": 26, "sequence": [3, 0, 3, 2]}
+{"session_id": 194, "sequence": [1, 1, 1, 1]}
+{"session_id": 982, "sequence": [1, 0, 2, 0, 1, 0, 2, 2]}
+{"session_id": 404, "sequence": [3, 1, 2, 0, 3, 2, 3]}
+{"session_id": 210, "sequence": [1, 1, 2, 1]}
+{"session_id": 587, "sequence": [1, 3, 3, 1, 2, 2, 0, 1]}
+{"session_id": 698, "sequence": [0, 3, 1, 3, 2, 3, 1, 3]}
+{"session_id": 229, "sequence": [1, 2, 2, 0, 0, 1]}
+{"session_id": "bot_1077", "sequence": [0, 3, 2]}
+{"session_id": 597, "sequence": [2, 1, 3, 2, 1, 0]}
+{"session_id": 263, "sequence": [2, 3, 2, 0]}
+{"session_id": 544, "sequence": [1, 3, 2, 0, 3]}
+{"session_id": 349, "sequence": [2, 0, 3, 0, 1, 0, 3, 1]}
+{"session_id": 979, "sequence": [2, 2, 2, 0, 1, 0, 2, 3]}
+{"session_id": 929, "sequence": [1, 2, 3, 2, 1, 3, 0]}
+{"session_id": "bot_1043", "sequence": [1, 3]}
+{"session_id": 540, "sequence": [2, 0, 1, 2, 3, 2, 1]}
+{"session_id": 209, "sequence": [3, 1, 2, 1, 0]}
+{"session_id": "bot_1114", "sequence": [0, 2, 1, 3]}
+{"session_id": "bot_1063", "sequence": [1, 2, 3, 0]}
+{"session_id": 823, "sequence": [1, 0, 1, 0, 1, 3, 3, 0]}
+{"session_id": 576, "sequence": [1, 2, 3, 2]}
+{"session_id": 101, "sequence": [2, 2, 2, 2, 3, 3, 3, 3]}
+{"session_id": 538, "sequence": [0, 1, 0, 2]}
+{"session_id": 38, "sequence": [0, 0, 2, 0, 0, 3, 0]}
+{"session_id": 686, "sequence": [2, 3, 2, 1, 0, 2, 1, 1]}
+{"session_id": 529, "sequence": [1, 1, 0, 0, 2, 1, 1]}
+{"session_id": 495, "sequence": [1, 2, 1, 3]}
+{"session_id": 624, "sequence": [3, 1, 3, 2, 1, 1, 2]}
+{"session_id": 676, "sequence": [1, 3, 2, 3, 2, 3, 0]}
+{"session_id": 692, "sequence": [2, 1, 0, 0, 1, 1, 2, 2]}
+{"session_id": 590, "sequence": [0, 2, 1, 1, 0, 3, 1]}
+{"session_id": 910, "sequence": [3, 3, 0, 3, 1]}
+{"session_id": 431, "sequence": [2, 1, 2, 2]}
+{"session_id": "bot_1052", "sequence": [1, 2, 0, 3]}
+{"session_id": 745, "sequence": [2, 0, 1, 1, 2, 3, 2, 3]}
+{"session_id": 687, "sequence": [2, 2, 1, 3, 0, 1]}
+{"session_id": 517, "sequence": [2, 3, 0, 3]}
+{"session_id": 120, "sequence": [3, 1, 2, 3, 3, 2]}
+{"session_id": 774, "sequence": [1, 3, 1, 3]}
+{"session_id": 703, "sequence": [2, 3, 2, 3, 1, 1, 0]}
+{"session_id": "bot_1005", "sequence": [3, 1, 2]}
+{"session_id": 926, "sequence": [3, 3, 2, 2, 2, 1, 3, 2]}
+{"session_id": "bot_1039", "sequence": [1, 0, 3]}
+{"session_id": 656, "sequence": [0, 2, 0, 0, 3, 3, 2]}
+{"session_id": 948, "sequence": [1, 1, 2, 2, 1, 2, 3, 0]}
+{"session_id": 318, "sequence": [3, 3, 3, 0, 2, 3]}
+{"session_id": 763, "sequence": [2, 2, 2, 0]}
+{"session_id": 871, "sequence": [3, 3, 1, 3, 3, 2, 2]}
+{"session_id": "bot_1044", "sequence": [1, 2, 3, 0]}
+{"session_id": "bot_1124", "sequence": [2, 1, 0, 3]}
+{"session_id": 172, "sequence": [1, 1, 3, 1, 2]}
+{"session_id": 25, "sequence": [0, 1, 0, 3, 0]}
+{"session_id": 564, "sequence": [1, 3, 2, 1, 1, 2, 3, 3]}
+{"session_id": 181, "sequence": [0, 1, 0, 0, 3, 2]}
+{"session_id": "bot_1092", "sequence": [2, 0]}
+{"session_id": 900, "sequence": [3, 1, 3, 3]}
+{"session_id": 266, "sequence": [0, 2, 2, 0, 1]}
+{"session_id": 24, "sequence": [2, 0, 1, 0, 1, 1, 0, 3]}
+{"session_id": 923, "sequence": [3, 3, 3, 1]}
+{"session_id": 133, "sequence": [1, 3, 2, 2, 3, 3, 0, 0]}
+{"session_id": 111, "sequence": [2, 0, 0, 2, 2, 2, 0, 3]}
+{"session_id": 402, "sequence": [2, 1, 0, 1, 1]}
+{"session_id": 909, "sequence": [1, 3, 3, 3, 2, 0, 0]}
+{"session_id": 724, "sequence": [0, 3, 3, 2, 0]}
+{"session_id": 626, "sequence": [2, 0, 1, 3]}
+{"session_id": "bot_1116", "sequence": [2, 1, 3, 0]}
+{"session_id": 336, "sequence": [3, 0, 1, 0]}
+{"session_id": 492, "sequence": [3, 0, 0, 3, 3, 1, 1, 3]}
+{"session_id": 316, "sequence": [3, 2, 3, 3, 2, 2, 1]}
+{"session_id": "bot_1107", "sequence": [1, 0, 3]}
+{"session_id": 368, "sequence": [0, 2, 1, 1]}
+{"session_id": 681, "sequence": [1, 1, 3, 0]}
+{"session_id": 359, "sequence": [2, 0, 0, 2]}
+{"session_id": 212, "sequence": [0, 2, 3, 0, 3, 1, 0]}
+{"session_id": 70, "sequence": [3, 1, 1, 2, 2, 0]}
+{"session_id": 806, "sequence": [0, 0, 3, 3, 1]}
+{"session_id": 822, "sequence": [1, 3, 3, 3, 2, 3, 3]}
+{"session_id": 471, "sequence": [3, 3, 1, 0, 2, 3]}
+{"session_id": 5, "sequence": [1, 1, 0, 2, 2, 2, 2, 1]}
+{"session_id": 884, "sequence": [0, 3, 3, 0, 3, 3, 0]}
+{"session_id": 679, "sequence": [2, 2, 2, 1, 0, 3, 0]}
+{"session_id": 381, "sequence": [2, 1, 2, 3, 0, 3]}
+{"session_id": "bot_1093", "sequence": [1, 0, 2]}
+{"session_id": 666, "sequence": [0, 0, 3, 0, 0, 1, 2]}
+{"session_id": 863, "sequence": [2, 0, 2, 3, 2, 0, 0]}
+{"session_id": 533, "sequence": [2, 1, 3, 3, 0, 1, 1]}
+{"session_id": 732, "sequence": [0, 3, 1, 3, 3, 1, 2, 1]}
+{"session_id": 77, "sequence": [0, 3, 1, 1]}
+{"session_id": 575, "sequence": [2, 0, 2, 1]}
+{"session_id": 725, "sequence": [3, 0, 0, 0]}
 {"session_id": "bot_1031", "sequence": [2, 0]}
-{"session_id": 991, "sequence": [1, 1, 3, 0, 3, 2, 0, 1]}
-{"session_id": 500, "sequence": [3, 1, 0, 3, 3, 0, 3]}
-{"session_id": 381, "sequence": [3, 3, 2, 3, 3, 0, 2, 0]}
-{"session_id": 422, "sequence": [1, 3, 3, 0, 3, 2, 2, 0]}
-{"session_id": 598, "sequence": [2, 0, 2, 1, 3, 1, 0]}
-{"session_id": 395, "sequence": [1, 3, 0, 1, 0, 2, 2]}
-{"session_id": 496, "sequence": [0, 3, 2, 0, 2]}
-{"session_id": 245, "sequence": [0, 3, 2, 3, 0]}
-{"session_id": 847, "sequence": [1, 0, 0, 3, 0]}
-{"session_id": "bot_1089", "sequence": [1, 0]}
-{"session_id": 304, "sequence": [0, 1, 1, 0]}
-{"session_id": "bot_1135", "sequence": [0, 2]}
-{"session_id": 340, "sequence": [2, 3, 1, 2, 1, 3]}
-{"session_id": 366, "sequence": [1, 1, 2, 2, 2, 2]}
-{"session_id": 36, "sequence": [2, 0, 3, 3, 1, 3, 2]}
-{"session_id": "bot_1113", "sequence": [2, 1, 3, 0]}
-{"session_id": 3, "sequence": [1, 2, 2, 0, 1]}
-{"session_id": 985, "sequence": [1, 0, 3, 2, 1, 3, 3]}
-{"session_id": 862, "sequence": [3, 3, 3, 1, 3]}
-{"session_id": 992, "sequence": [2, 2, 2, 3, 1, 1, 2]}
-{"session_id": 976, "sequence": [1, 0, 0, 3, 2, 1, 2, 1]}
-{"session_id": "bot_1097", "sequence": [2, 1, 3, 0]}
-{"session_id": 765, "sequence": [0, 2, 2, 1, 0, 3]}
-{"session_id": 207, "sequence": [0, 3, 3, 1]}
-{"session_id": 6, "sequence": [0, 0, 2, 3, 1, 3, 1, 0]}
-{"session_id": 999, "sequence": [2, 3, 0, 0]}
-{"session_id": 920, "sequence": [1, 0, 1, 0, 2]}
-{"session_id": 409, "sequence": [3, 0, 1, 3, 0, 0, 0]}
-{"session_id": "bot_1041", "sequence": [1, 0, 3]}
-{"session_id": 488, "sequence": [3, 0, 0, 3]}
-{"session_id": 436, "sequence": [1, 0, 1, 3, 2, 2, 1]}
-{"session_id": 47, "sequence": [1, 1, 3, 0]}
-{"session_id": 678, "sequence": [1, 0, 0, 3]}
-{"session_id": 303, "sequence": [1, 1, 3, 1]}
-{"session_id": 151, "sequence": [1, 1, 3, 3, 2, 0, 3]}
-{"session_id": 777, "sequence": [3, 1, 0, 3, 1, 1, 2]}
-{"session_id": 257, "sequence": [2, 0, 3, 0, 2, 1]}
-{"session_id": "bot_1024", "sequence": [2, 3, 0]}
-{"session_id": 749, "sequence": [3, 3, 0, 1, 0]}
-{"session_id": "bot_1127", "sequence": [3, 2, 0]}
-{"session_id": 657, "sequence": [1, 0, 3, 1, 0, 2, 3, 2]}
-{"session_id": 979, "sequence": [1, 1, 1, 2, 3]}
-{"session_id": 251, "sequence": [2, 1, 3, 2, 3, 2, 2]}
-{"session_id": "bot_1144", "sequence": [2, 1, 0]}
-{"session_id": 302, "sequence": [3, 1, 3, 0, 0, 1, 3]}
-{"session_id": 897, "sequence": [2, 2, 2, 1, 3, 3]}
-{"session_id": 175, "sequence": [3, 1, 0, 2, 3, 2, 0, 2]}
-{"session_id": 851, "sequence": [1, 3, 3, 1, 3, 2, 2, 1]}
-{"session_id": 21, "sequence": [1, 3, 3, 1]}
-{"session_id": 702, "sequence": [0, 1, 1, 1]}
-{"session_id": 163, "sequence": [3, 3, 0, 3, 0, 0, 0]}
-{"session_id": "bot_1088", "sequence": [3, 1, 0]}
-{"session_id": "bot_1108", "sequence": [3, 2, 1]}
-{"session_id": 458, "sequence": [2, 3, 3, 1, 3, 2]}
-{"session_id": 585, "sequence": [0, 3, 3, 0]}
-{"session_id": 875, "sequence": [0, 1, 1, 2]}
-{"session_id": 51, "sequence": [3, 3, 1, 1]}
-{"session_id": 214, "sequence": [3, 0, 0, 3, 3, 0]}
-{"session_id": 615, "sequence": [0, 0, 2, 1, 0]}
-{"session_id": 9, "sequence": [2, 0, 0, 3]}
-{"session_id": 593, "sequence": [1, 0, 0, 0, 2]}
-{"session_id": 719, "sequence": [0, 2, 0, 0, 0, 3, 2]}
-{"session_id": 662, "sequence": [2, 2, 2, 3]}
-{"session_id": 309, "sequence": [3, 0, 2, 2, 2, 3, 1]}
-{"session_id": 377, "sequence": [2, 1, 1, 3, 3, 0]}
-{"session_id": 827, "sequence": [1, 3, 1, 0, 3, 3, 2, 1]}
-{"session_id": 358, "sequence": [2, 3, 3, 0]}
-{"session_id": 97, "sequence": [0, 0, 2, 1, 0]}
-{"session_id": 71, "sequence": [2, 0, 3, 2]}
-{"session_id": 502, "sequence": [2, 2, 3, 1, 3, 1, 0]}
-{"session_id": "bot_1048", "sequence": [2, 1, 0]}
-{"session_id": 699, "sequence": [2, 2, 2, 2, 0, 1]}
-{"session_id": "bot_1109", "sequence": [3, 0, 2, 1]}
-{"session_id": 509, "sequence": [0, 0, 3, 1, 2, 0, 1]}
-{"session_id": 808, "sequence": [2, 1, 3, 1, 0]}
-{"session_id": 996, "sequence": [1, 0, 2, 2]}
-{"session_id": 139, "sequence": [3, 3, 1, 0]}
-{"session_id": 689, "sequence": [0, 2, 3, 3, 2, 3, 2]}
-{"session_id": 840, "sequence": [0, 1, 3, 3, 1, 1]}
-{"session_id": "bot_1021", "sequence": [2, 1]}
-{"session_id": 763, "sequence": [3, 1, 3, 3]}
-{"session_id": 724, "sequence": [3, 0, 1, 3, 2, 3]}
-{"session_id": 470, "sequence": [1, 2, 3, 1]}
-{"session_id": 912, "sequence": [0, 2, 3, 1, 3, 1, 3, 1]}
-{"session_id": 784, "sequence": [3, 3, 2, 3, 1, 2, 2, 2]}
-{"session_id": 196, "sequence": [1, 0, 1, 3, 2]}
-{"session_id": 740, "sequence": [3, 2, 3, 1, 0]}
-{"session_id": 830, "sequence": [1, 0, 1, 0, 3]}
-{"session_id": 549, "sequence": [3, 3, 3, 2, 0, 0, 0]}
-{"session_id": 127, "sequence": [1, 0, 1, 0, 2, 0, 0]}
-{"session_id": 804, "sequence": [0, 1, 1, 3, 1, 0, 0, 0]}
-{"session_id": 504, "sequence": [1, 0, 2, 2]}
-{"session_id": 955, "sequence": [1, 0, 1, 3, 0, 0]}
-{"session_id": 158, "sequence": [2, 3, 3, 3]}
-{"session_id": 442, "sequence": [3, 1, 3, 2, 1, 0]}
-{"session_id": 628, "sequence": [1, 3, 1, 3, 3, 1, 2]}
-{"session_id": 261, "sequence": [0, 0, 3, 3, 2, 3, 3]}
-{"session_id": 975, "sequence": [0, 0, 1, 0, 0, 0, 2]}
-{"session_id": 692, "sequence": [1, 1, 1, 2]}
-{"session_id": 234, "sequence": [3, 0, 0, 1, 0, 0, 0]}
-{"session_id": 293, "sequence": [1, 1, 3, 2, 1, 2, 3, 1]}
-{"session_id": 238, "sequence": [2, 1, 2, 0, 1, 1]}
-{"session_id": 693, "sequence": [3, 3, 2, 3]}
-{"session_id": 314, "sequence": [3, 2, 2, 1, 0, 3, 1, 0]}
-{"session_id": 768, "sequence": [2, 2, 3, 1, 0, 2, 2]}
-{"session_id": 995, "sequence": [1, 1, 1, 1, 3, 2]}
-{"session_id": 525, "sequence": [2, 2, 3, 0, 3]}
-{"session_id": "bot_1043", "sequence": [3, 2]}
-{"session_id": 300, "sequence": [0, 1, 2, 2, 3]}
-{"session_id": 433, "sequence": [2, 1, 0, 1, 0, 2, 1, 0]}
-{"session_id": 635, "sequence": [2, 2, 1, 0, 0, 1]}
-{"session_id": 582, "sequence": [2, 0, 0, 2]}
-{"session_id": 485, "sequence": [1, 3, 2, 0, 0, 3]}
-{"session_id": 78, "sequence": [3, 1, 2, 2]}
-{"session_id": 514, "sequence": [3, 2, 3, 0, 2]}
-{"session_id": "bot_1093", "sequence": [1, 3, 2, 0]}
-{"session_id": 588, "sequence": [2, 3, 1, 1, 2]}
-{"session_id": "bot_1148", "sequence": [2, 0, 3, 1]}
-{"session_id": 169, "sequence": [3, 2, 3, 2, 2]}
-{"session_id": 680, "sequence": [3, 3, 2, 1, 0, 2]}
-{"session_id": 338, "sequence": [2, 2, 0, 0, 3, 1, 0]}
-{"session_id": "bot_1136", "sequence": [2, 3, 1, 0]}
-{"session_id": 683, "sequence": [1, 1, 0, 3, 2, 1, 3]}
-{"session_id": 393, "sequence": [1, 1, 2, 2, 2, 0]}
-{"session_id": 986, "sequence": [2, 0, 1, 0, 2, 1, 3]}
-{"session_id": 157, "sequence": [3, 3, 0, 1, 0, 1, 3, 0]}
-{"session_id": 333, "sequence": [3, 2, 1, 0, 2, 3, 3]}
-{"session_id": 664, "sequence": [1, 3, 1, 3, 2, 3, 0, 0]}
-{"session_id": 194, "sequence": [3, 1, 2, 0, 2, 0, 3, 0]}
-{"session_id": 146, "sequence": [3, 2, 0, 2, 0, 1]}
-{"session_id": "bot_1050", "sequence": [1, 3, 0]}
-{"session_id": 321, "sequence": [0, 1, 2, 3, 2]}
-{"session_id": 487, "sequence": [2, 3, 2, 2]}
-{"session_id": 283, "sequence": [0, 0, 3, 0, 1]}
-{"session_id": 906, "sequence": [3, 3, 3, 1]}
-{"session_id": "bot_1038", "sequence": [2, 0, 3]}
-{"session_id": 744, "sequence": [3, 3, 0, 1, 0, 2, 0, 3]}
-{"session_id": 329, "sequence": [2, 0, 0, 1, 1]}
-{"session_id": 685, "sequence": [1, 2, 1, 3, 1, 3, 3]}
-{"session_id": 882, "sequence": [3, 2, 1, 1, 0, 1, 1, 2]}
-{"session_id": 608, "sequence": [3, 3, 2, 2, 2]}
-{"session_id": 287, "sequence": [3, 2, 2, 1, 2, 0]}
-{"session_id": 224, "sequence": [1, 2, 3, 3, 1, 3]}
-{"session_id": 421, "sequence": [0, 1, 2, 3, 1, 2]}
-{"session_id": 972, "sequence": [3, 0, 3, 3, 0, 2, 3, 0]}
-{"session_id": 651, "sequence": [3, 2, 3, 0]}
-{"session_id": 527, "sequence": [0, 2, 3, 0, 0]}
-{"session_id": "bot_1045", "sequence": [3, 0, 2]}
-{"session_id": "bot_1116", "sequence": [1, 0]}
-{"session_id": 730, "sequence": [3, 3, 1, 3]}
-{"session_id": 419, "sequence": [2, 3, 3, 1, 3]}
-{"session_id": 898, "sequence": [0, 2, 3, 1, 3, 1, 1, 0]}
-{"session_id": 342, "sequence": [0, 0, 3, 2, 0, 3]}
-{"session_id": 79, "sequence": [0, 3, 2, 2]}
-{"session_id": 560, "sequence": [2, 2, 0, 3, 1]}
-{"session_id": 756, "sequence": [1, 0, 2, 0, 3, 1]}
-{"session_id": 977, "sequence": [3, 1, 2, 2, 2, 2, 3]}
-{"session_id": 915, "sequence": [3, 3, 3, 3]}
-{"session_id": 477, "sequence": [3, 3, 2, 0, 2, 3]}
-{"session_id": 781, "sequence": [2, 2, 0, 2, 0]}
-{"session_id": 115, "sequence": [0, 2, 2, 2, 3, 0, 3, 0]}
-{"session_id": 531, "sequence": [3, 1, 1, 1, 1, 3, 3]}
-{"session_id": 949, "sequence": [1, 2, 0, 0, 3]}
-{"session_id": "bot_1110", "sequence": [0, 1, 2, 3]}
-{"session_id": 218, "sequence": [1, 3, 2, 1, 1, 3]}
-{"session_id": 686, "sequence": [0, 0, 1, 0, 0, 2, 2, 0]}
-{"session_id": 867, "sequence": [0, 3, 0, 0, 0, 0, 2, 0]}
-{"session_id": 548, "sequence": [3, 0, 3, 0, 1, 0, 2]}
-{"session_id": 971, "sequence": [2, 0, 2, 2, 1]}
-{"session_id": 706, "sequence": [1, 3, 3, 2, 2, 3, 1, 2]}
-{"session_id": 208, "sequence": [3, 0, 2, 1, 3, 1, 0, 0]}
-{"session_id": 541, "sequence": [2, 0, 2, 2, 1, 2, 1]}
-{"session_id": 709, "sequence": [2, 2, 3, 2, 3, 1]}
-{"session_id": 811, "sequence": [2, 0, 3, 3, 2]}
-{"session_id": 497, "sequence": [3, 0, 0, 3, 3, 2, 0, 0]}
-{"session_id": 708, "sequence": [3, 1, 2, 0, 2, 0, 3]}
-{"session_id": 878, "sequence": [3, 1, 3, 1]}
-{"session_id": 148, "sequence": [0, 1, 3, 1]}
-{"session_id": 874, "sequence": [0, 2, 0, 3]}
-{"session_id": 899, "sequence": [2, 2, 3, 1, 1, 0, 2]}
-{"session_id": 820, "sequence": [1, 0, 0, 0, 1, 0]}
-{"session_id": 170, "sequence": [3, 2, 2, 3, 3, 1]}
-{"session_id": 29, "sequence": [0, 0, 2, 3, 0, 2]}
-{"session_id": 584, "sequence": [3, 2, 2, 2, 2]}
-{"session_id": 832, "sequence": [2, 1, 0, 1, 3, 3, 2, 2]}
-{"session_id": 226, "sequence": [3, 3, 2, 1, 0, 1, 2, 3]}
-{"session_id": 241, "sequence": [0, 0, 3, 2, 1]}
-{"session_id": 439, "sequence": [3, 0, 0, 3]}
-{"session_id": 606, "sequence": [1, 1, 3, 1, 2, 2, 1, 0]}
-{"session_id": 896, "sequence": [0, 3, 0, 0, 1, 3, 2]}
-{"session_id": "bot_1068", "sequence": [1, 3, 2, 0]}
-{"session_id": 291, "sequence": [3, 2, 1, 3, 3, 0]}
-{"session_id": 747, "sequence": [1, 1, 3, 1, 1]}
-{"session_id": 315, "sequence": [1, 1, 2, 1, 0]}
-{"session_id": 586, "sequence": [2, 3, 3, 1, 2, 0, 3]}
-{"session_id": "bot_1059", "sequence": [0, 1, 3]}
-{"session_id": 718, "sequence": [0, 2, 2, 0]}
-{"session_id": "bot_1096", "sequence": [0, 1]}
-{"session_id": 658, "sequence": [2, 0, 3, 2, 2, 0, 2, 1]}
-{"session_id": 866, "sequence": [2, 1, 3, 2, 1]}
-{"session_id": 571, "sequence": [3, 3, 0, 3]}
-{"session_id": "bot_1009", "sequence": [3, 0, 2, 1]}
-{"session_id": 904, "sequence": [3, 0, 0, 0, 3, 0]}
-{"session_id": 950, "sequence": [1, 0, 1, 2, 3, 3]}
-{"session_id": 40, "sequence": [1, 1, 2, 2, 3]}
-{"session_id": 806, "sequence": [1, 0, 1, 1, 3, 3, 1]}
-{"session_id": 697, "sequence": [3, 0, 1, 1, 2, 1, 1, 2]}
-{"session_id": 668, "sequence": [3, 3, 2, 0, 0, 1, 1, 1]}
-{"session_id": 543, "sequence": [1, 1, 0, 2]}
-{"session_id": 553, "sequence": [3, 2, 3, 1]}
-{"session_id": "bot_1132", "sequence": [1, 2, 3]}
-{"session_id": 677, "sequence": [3, 0, 2, 0, 3, 2, 1, 3]}
-{"session_id": 319, "sequence": [3, 2, 0, 0, 1, 3]}
-{"session_id": "bot_1034", "sequence": [3, 0, 2, 1]}
-{"session_id": 25, "sequence": [0, 3, 0, 2, 3, 3]}
-{"session_id": "bot_1130", "sequence": [1, 0, 2, 3]}
-{"session_id": 736, "sequence": [3, 3, 0, 1, 3, 3, 1, 3]}
-{"session_id": 961, "sequence": [2, 0, 2, 2, 2, 1, 1]}
-{"session_id": 632, "sequence": [0, 2, 0, 2, 0, 1, 1, 2]}
-{"session_id": 111, "sequence": [0, 3, 2, 2]}
-{"session_id": 688, "sequence": [3, 1, 2, 3]}
-{"session_id": 760, "sequence": [2, 1, 3, 1, 2, 2, 1]}
-{"session_id": 98, "sequence": [0, 1, 3, 3, 3, 3, 2, 3]}
-{"session_id": 577, "sequence": [2, 3, 1, 2, 3, 0]}
-{"session_id": 294, "sequence": [0, 0, 1, 2]}
-{"session_id": 216, "sequence": [1, 1, 1, 1, 2]}
-{"session_id": 690, "sequence": [2, 2, 3, 3, 3]}
-{"session_id": 166, "sequence": [0, 2, 3, 0, 0, 2, 2]}
-{"session_id": "bot_1039", "sequence": [1, 3, 2]}
-{"session_id": 95, "sequence": [1, 2, 3, 2]}
-{"session_id": 8, "sequence": [2, 3, 3, 2, 2, 2, 0, 0]}
-{"session_id": 416, "sequence": [1, 3, 2, 2, 1]}
-{"session_id": 788, "sequence": [0, 3, 0, 2, 0, 1]}
-{"session_id": "bot_1138", "sequence": [2, 1, 0, 3]}
-{"session_id": 782, "sequence": [0, 2, 2, 0, 2, 2]}
-{"session_id": 77, "sequence": [2, 0, 0, 0, 0, 0, 2]}
-{"session_id": 134, "sequence": [2, 1, 0, 2, 1, 2, 2]}
-{"session_id": 974, "sequence": [2, 0, 3, 2, 0, 2, 0, 0]}
-{"session_id": 713, "sequence": [1, 2, 2, 3, 2]}
-{"session_id": "bot_1102", "sequence": [0, 2, 1]}
-{"session_id": 958, "sequence": [1, 0, 2, 1, 1, 3, 3]}
-{"session_id": "bot_1142", "sequence": [1, 2, 0]}
-{"session_id": 428, "sequence": [3, 0, 1, 1, 2, 0, 2, 2]}
-{"session_id": 732, "sequence": [2, 0, 2, 3, 3, 3]}
-{"session_id": "bot_1147", "sequence": [1, 2, 0, 3]}
-{"session_id": 854, "sequence": [3, 1, 1, 0, 1]}
-{"session_id": 656, "sequence": [0, 3, 2, 2, 2, 2, 0]}
-{"session_id": 52, "sequence": [2, 3, 2, 0, 3]}
-{"session_id": 325, "sequence": [1, 3, 3, 1]}
-{"session_id": 133, "sequence": [2, 3, 1, 2, 2]}
-{"session_id": 240, "sequence": [2, 0, 2, 1]}
-{"session_id": 195, "sequence": [0, 0, 1, 3, 1]}
-{"session_id": 988, "sequence": [3, 1, 2, 2]}
-{"session_id": 932, "sequence": [2, 2, 0, 1, 0, 2, 2, 0]}
-{"session_id": "bot_1003", "sequence": [2, 3, 0, 1]}
-{"session_id": 350, "sequence": [0, 3, 2, 0, 3, 3]}
-{"session_id": 454, "sequence": [1, 3, 3, 3, 2, 0]}
-{"session_id": 89, "sequence": [3, 3, 2, 3, 0, 2, 3, 1]}
-{"session_id": 778, "sequence": [1, 3, 3, 1]}
-{"session_id": 843, "sequence": [3, 0, 2, 3, 2, 2, 2]}
-{"session_id": 155, "sequence": [2, 0, 2, 3, 2, 3, 2, 2]}
-{"session_id": 722, "sequence": [1, 0, 0, 2, 2, 3, 0, 1]}
-{"session_id": 444, "sequence": [2, 3, 2, 1, 1, 1]}
-{"session_id": 45, "sequence": [3, 0, 0, 0, 3, 2, 3]}
-{"session_id": 65, "sequence": [2, 1, 1, 2, 0, 1, 2, 0]}
-{"session_id": 654, "sequence": [0, 1, 1, 3, 0, 3, 2]}
-{"session_id": 313, "sequence": [0, 3, 1, 0, 3, 2, 1, 1]}
-{"session_id": 231, "sequence": [3, 2, 0, 3, 2, 0, 3, 0]}
-{"session_id": 2, "sequence": [3, 2, 3, 2]}
-{"session_id": 902, "sequence": [3, 3, 2, 2, 2, 1]}
-{"session_id": 361, "sequence": [3, 3, 2, 3, 2, 1, 3]}
-{"session_id": 277, "sequence": [2, 1, 1, 3]}
-{"session_id": "bot_1070", "sequence": [3, 0, 1, 2]}
-{"session_id": 144, "sequence": [0, 1, 0, 0, 1]}
-{"session_id": 67, "sequence": [2, 0, 1, 3]}
-{"session_id": 570, "sequence": [2, 0, 1, 1, 0, 0]}
-{"session_id": 360, "sequence": [1, 0, 2, 3, 0]}
-{"session_id": 347, "sequence": [3, 3, 3, 1, 2, 2]}
-{"session_id": 28, "sequence": [1, 0, 0, 3, 3, 0, 2, 1]}
-{"session_id": 305, "sequence": [2, 0, 3, 3, 3, 2, 3]}
-{"session_id": 792, "sequence": [1, 3, 3, 2]}
-{"session_id": 141, "sequence": [2, 0, 3, 2]}
-{"session_id": 794, "sequence": [3, 2, 1, 2, 3, 2]}
-{"session_id": 296, "sequence": [3, 1, 2, 1, 1, 1, 0, 1]}
-{"session_id": 252, "sequence": [2, 2, 0, 0, 1, 0, 0, 0]}
-{"session_id": 31, "sequence": [0, 2, 3, 0, 1, 0, 0, 3]}
-{"session_id": 468, "sequence": [0, 0, 3, 3, 3, 0]}
-{"session_id": 46, "sequence": [2, 3, 2, 3, 0, 0]}
-{"session_id": "bot_1117", "sequence": [2, 0]}
-{"session_id": 914, "sequence": [0, 1, 2, 2, 1, 1]}
-{"session_id": "bot_1063", "sequence": [3, 1, 0]}
-{"session_id": 464, "sequence": [1, 1, 2, 0]}
-{"session_id": "bot_1085", "sequence": [2, 1, 3, 0]}
-{"session_id": 59, "sequence": [0, 2, 3, 0]}
-{"session_id": 351, "sequence": [1, 1, 1, 0, 0, 0]}
-{"session_id": 684, "sequence": [3, 0, 2, 2, 1, 0, 0, 2]}
-{"session_id": 180, "sequence": [2, 1, 2, 3, 2, 1]}
-{"session_id": "bot_1062", "sequence": [3, 1]}
-{"session_id": 758, "sequence": [3, 2, 0, 3, 2]}
-{"session_id": 288, "sequence": [1, 0, 1, 1, 0]}
-{"session_id": 400, "sequence": [2, 3, 2, 3, 0, 3]}
-{"session_id": 984, "sequence": [3, 3, 0, 2]}
-{"session_id": 344, "sequence": [1, 1, 0, 2, 1, 2]}
-{"session_id": 75, "sequence": [3, 2, 1, 1, 0, 1, 1]}
-{"session_id": 312, "sequence": [1, 1, 0, 0, 0, 2, 2]}
-{"session_id": 118, "sequence": [1, 0, 0, 3, 0]}
-{"session_id": 805, "sequence": [3, 3, 1, 2, 0, 0]}
-{"session_id": 334, "sequence": [1, 2, 2, 1]}
-{"session_id": 205, "sequence": [0, 2, 3, 1, 3, 1, 3]}
-{"session_id": 726, "sequence": [2, 1, 3, 1, 1, 3, 2, 2]}
-{"session_id": 536, "sequence": [0, 1, 3, 2, 3]}
-{"session_id": 54, "sequence": [2, 1, 0, 1, 2, 3, 3, 2]}
-{"session_id": 230, "sequence": [0, 0, 0, 2, 0]}
-{"session_id": 492, "sequence": [0, 2, 2, 3, 1]}
-{"session_id": 569, "sequence": [0, 3, 1, 2, 1, 2, 2, 3]}
-{"session_id": 375, "sequence": [1, 2, 0, 3, 2, 2]}
-{"session_id": 911, "sequence": [3, 2, 1, 2, 3, 1, 3]}
-{"session_id": 88, "sequence": [1, 0, 1, 0]}
-{"session_id": 934, "sequence": [3, 0, 3, 3, 0, 1, 2]}
-{"session_id": 4, "sequence": [2, 2, 1, 1, 0, 2]}
-{"session_id": 676, "sequence": [0, 2, 2, 3, 1, 2]}
-{"session_id": 738, "sequence": [1, 2, 3, 1, 3]}
-{"session_id": 850, "sequence": [2, 1, 0, 0]}
-{"session_id": 646, "sequence": [3, 2, 3, 1, 1, 1, 2, 3]}
-{"session_id": "bot_1058", "sequence": [0, 2, 3, 1]}
-{"session_id": 629, "sequence": [1, 3, 3, 3]}
-{"session_id": 183, "sequence": [0, 2, 1, 0, 2, 1, 2, 0]}
-{"session_id": 590, "sequence": [1, 3, 1, 2, 3]}
-{"session_id": "bot_1056", "sequence": [0, 2, 3]}
-{"session_id": 725, "sequence": [2, 1, 1, 3, 2, 2, 0, 0]}
-{"session_id": 320, "sequence": [1, 2, 0, 3, 0, 2]}
-{"session_id": "bot_1074", "sequence": [3, 0, 2]}
-{"session_id": 957, "sequence": [3, 2, 2, 2, 2, 3, 0, 1]}
-{"session_id": 22, "sequence": [0, 3, 3, 2, 2]}
-{"session_id": 292, "sequence": [0, 0, 0, 3, 1, 3]}
-{"session_id": 946, "sequence": [3, 0, 0, 0, 0, 0, 3, 2]}
-{"session_id": 457, "sequence": [0, 0, 2, 1, 0, 2]}
-{"session_id": 563, "sequence": [2, 3, 1, 0, 0, 0]}
-{"session_id": 759, "sequence": [1, 1, 2, 2]}
-{"session_id": "bot_1011", "sequence": [3, 0, 1]}
-{"session_id": 970, "sequence": [3, 0, 0, 2, 2, 0, 2, 2]}
-{"session_id": 587, "sequence": [0, 3, 3, 2, 2, 2]}
-{"session_id": "bot_1037", "sequence": [0, 1, 2]}
-{"session_id": 318, "sequence": [3, 0, 1, 2]}
-{"session_id": 275, "sequence": [0, 0, 1, 3, 1]}
-{"session_id": 513, "sequence": [2, 1, 0, 3]}
-{"session_id": 627, "sequence": [1, 1, 0, 3, 3, 1]}
-{"session_id": 669, "sequence": [2, 1, 1, 3, 1, 1, 2, 1]}
-{"session_id": 783, "sequence": [2, 3, 2, 0]}
-{"session_id": 384, "sequence": [3, 3, 1, 1, 3, 1, 1, 1]}
-{"session_id": "bot_1087", "sequence": [3, 2]}
-{"session_id": 803, "sequence": [0, 0, 0, 1, 2, 3, 0, 0]}
-{"session_id": 626, "sequence": [2, 2, 0, 3]}
-{"session_id": 575, "sequence": [0, 3, 3, 1, 2, 0]}
-{"session_id": 445, "sequence": [0, 0, 3, 1, 2, 3, 2, 2]}
-{"session_id": 624, "sequence": [3, 3, 0, 3, 1]}
-{"session_id": 284, "sequence": [3, 2, 2, 0, 0]}
-{"session_id": 554, "sequence": [2, 0, 3, 2, 0, 0]}
-{"session_id": 879, "sequence": [3, 2, 2, 2, 2]}
-{"session_id": 420, "sequence": [0, 2, 0, 3]}
-{"session_id": 13, "sequence": [1, 1, 1, 1, 3, 3]}
-{"session_id": 137, "sequence": [1, 2, 0, 3, 3, 1]}
-{"session_id": 135, "sequence": [2, 2, 3, 3, 3, 0]}
-{"session_id": 101, "sequence": [2, 0, 1, 0]}
-{"session_id": 398, "sequence": [2, 1, 3, 1, 3]}
-{"session_id": 162, "sequence": [0, 2, 2, 2]}
-{"session_id": "bot_1125", "sequence": [1, 0, 3]}
-{"session_id": 556, "sequence": [0, 3, 2, 3, 1]}
-{"session_id": "bot_1061", "sequence": [3, 1, 2]}
-{"session_id": 105, "sequence": [0, 1, 3, 0, 1, 2, 3]}
-{"session_id": 322, "sequence": [1, 2, 1, 1, 0, 0, 0]}
-{"session_id": 197, "sequence": [2, 1, 0, 2, 0, 1, 0, 1]}
-{"session_id": 281, "sequence": [3, 3, 3, 2, 1, 1]}
-{"session_id": 815, "sequence": [0, 2, 2, 2, 0, 1, 1]}
-{"session_id": "bot_1049", "sequence": [2, 1, 3]}
-{"session_id": 649, "sequence": [0, 1, 1, 3, 2, 0, 1, 2]}
-{"session_id": 845, "sequence": [1, 0, 3, 0]}
-{"session_id": 515, "sequence": [3, 3, 2, 0, 0, 1, 1]}
-{"session_id": "bot_1076", "sequence": [0, 3, 1]}
-{"session_id": 673, "sequence": [2, 1, 0, 1]}
-{"session_id": 276, "sequence": [3, 3, 0, 0, 2, 1, 2, 3]}
-{"session_id": 14, "sequence": [2, 2, 2, 1, 1, 3, 0]}
-{"session_id": 94, "sequence": [0, 0, 3, 3, 1, 3, 3, 0]}
-{"session_id": 675, "sequence": [2, 2, 1, 2]}
-{"session_id": "bot_1140", "sequence": [0, 1]}
-{"session_id": 236, "sequence": [1, 3, 0, 2]}
-{"session_id": 174, "sequence": [1, 2, 2, 1, 2, 2, 0, 2]}
-{"session_id": 776, "sequence": [0, 2, 2, 0, 2]}
-{"session_id": 637, "sequence": [2, 3, 1, 2, 2, 1, 2, 0]}
-{"session_id": 856, "sequence": [2, 2, 2, 2]}
-{"session_id": 92, "sequence": [3, 0, 1, 2, 2, 1, 3]}
-{"session_id": 263, "sequence": [3, 0, 1, 3, 2, 2, 2]}
-{"session_id": 407, "sequence": [3, 2, 0, 3, 0, 1, 2]}
-{"session_id": 905, "sequence": [3, 0, 3, 0, 0]}
-{"session_id": 327, "sequence": [1, 0, 2, 0, 3, 0]}
-{"session_id": 774, "sequence": [0, 0, 1, 2, 1, 1, 1]}
-{"session_id": 390, "sequence": [2, 0, 0, 0]}
-{"session_id": "bot_1091", "sequence": [2, 0, 1]}
-{"session_id": 411, "sequence": [3, 2, 2, 2, 3, 2, 1]}
-{"session_id": 927, "sequence": [3, 2, 0, 0, 0]}
-{"session_id": 595, "sequence": [1, 3, 0, 3, 0, 2]}
-{"session_id": 359, "sequence": [0, 1, 3, 3, 2]}
-{"session_id": 357, "sequence": [2, 0, 3, 1, 0, 3, 1, 0]}
-{"session_id": 472, "sequence": [3, 1, 1, 1, 1, 2, 2, 3]}
-{"session_id": 824, "sequence": [3, 1, 3, 0, 2, 0, 2]}
-{"session_id": "bot_1052", "sequence": [1, 3]}
-{"session_id": 645, "sequence": [3, 3, 3, 0, 2, 0, 1, 1]}
-{"session_id": 290, "sequence": [1, 3, 2, 0, 1, 3, 3]}
-{"session_id": 923, "sequence": [0, 2, 2, 0, 2, 3, 0, 2]}
-{"session_id": "bot_1103", "sequence": [3, 1, 2]}
-{"session_id": 382, "sequence": [0, 3, 3, 3, 2, 0]}
-{"session_id": 159, "sequence": [2, 3, 2, 2, 2, 2, 1, 2]}
-{"session_id": 424, "sequence": [2, 3, 0, 3]}
-{"session_id": "bot_1071", "sequence": [2, 1, 3]}
-{"session_id": 965, "sequence": [2, 2, 2, 1, 1, 0, 2, 3]}
-{"session_id": 19, "sequence": [0, 2, 2, 3, 2]}
-{"session_id": "bot_1081", "sequence": [3, 0]}
-{"session_id": 639, "sequence": [3, 2, 2, 3, 0]}
-{"session_id": 762, "sequence": [1, 1, 0, 1, 1, 3]}
-{"session_id": "bot_1057", "sequence": [3, 1, 0]}
-{"session_id": 58, "sequence": [1, 3, 3, 1, 1, 3, 3, 0]}
-{"session_id": 802, "sequence": [1, 1, 0, 0, 3, 3]}
-{"session_id": 337, "sequence": [3, 3, 1, 3, 1, 0, 1]}
-{"session_id": 661, "sequence": [3, 0, 0, 0]}
-{"session_id": 106, "sequence": [2, 0, 0, 3, 3]}
-{"session_id": 600, "sequence": [1, 1, 3, 2, 2, 1]}
-{"session_id": 204, "sequence": [3, 3, 2, 3, 3, 3, 3]}
-{"session_id": 748, "sequence": [3, 2, 3, 3]}
-{"session_id": 712, "sequence": [1, 1, 0, 3, 2, 2, 1]}
-{"session_id": 184, "sequence": [3, 2, 0, 1]}
-{"session_id": 959, "sequence": [1, 3, 1, 2, 1, 3]}
-{"session_id": 901, "sequence": [3, 1, 0, 2, 1, 0]}
-{"session_id": 618, "sequence": [1, 0, 3, 3, 2]}
-{"session_id": 519, "sequence": [2, 0, 1, 0]}
-{"session_id": 546, "sequence": [2, 0, 2, 2, 0]}
-{"session_id": 453, "sequence": [3, 1, 3, 3, 0]}
-{"session_id": 547, "sequence": [1, 1, 1, 0]}
-{"session_id": 429, "sequence": [2, 2, 0, 1, 3, 3]}
-{"session_id": "bot_1120", "sequence": [0, 2, 3]}
-{"session_id": 903, "sequence": [3, 0, 0, 3, 0, 1, 1, 0]}
-{"session_id": 665, "sequence": [2, 1, 0, 0, 2, 1, 3, 0]}
-{"session_id": 142, "sequence": [1, 2, 1, 2, 3, 3, 3]}
-{"session_id": 741, "sequence": [1, 0, 0, 2]}
-{"session_id": 91, "sequence": [1, 1, 1, 2, 3]}
-{"session_id": 659, "sequence": [2, 2, 0, 2, 1, 3, 3, 1]}
-{"session_id": 316, "sequence": [2, 2, 2, 2]}
-{"session_id": 787, "sequence": [2, 1, 3, 1, 1, 2, 1, 2]}
-{"session_id": 107, "sequence": [1, 2, 1, 1, 3, 2, 3]}
-{"session_id": 35, "sequence": [0, 1, 0, 2, 2, 2, 1, 3]}
-{"session_id": 469, "sequence": [3, 0, 0, 0]}
-{"session_id": 438, "sequence": [3, 2, 0, 3, 0, 2, 0]}
-{"session_id": 412, "sequence": [0, 2, 3, 3, 2]}
-{"session_id": 734, "sequence": [0, 1, 0, 3, 0, 1]}
-{"session_id": 710, "sequence": [0, 2, 2, 0, 2, 2]}
-{"session_id": 104, "sequence": [3, 1, 2, 2, 1, 0, 3, 1]}
-{"session_id": 643, "sequence": [3, 3, 2, 0]}
-{"session_id": "bot_1134", "sequence": [2, 3, 1]}
-{"session_id": 62, "sequence": [2, 1, 1, 3, 3]}
-{"session_id": 140, "sequence": [1, 1, 2, 2]}
-{"session_id": 877, "sequence": [3, 2, 1, 1, 0, 3, 1]}
-{"session_id": 177, "sequence": [0, 1, 0, 1, 1, 1]}
-{"session_id": 555, "sequence": [3, 2, 2, 0, 3, 1, 0]}
-{"session_id": "bot_1004", "sequence": [3, 2, 0]}
-{"session_id": "bot_1012", "sequence": [2, 0, 1, 3]}
-{"session_id": 41, "sequence": [1, 2, 0, 2, 1]}
-{"session_id": 836, "sequence": [2, 2, 2, 0, 2, 0, 2]}
-{"session_id": 335, "sequence": [0, 3, 1, 2, 2]}
-{"session_id": 405, "sequence": [1, 1, 0, 1, 0, 1]}
-{"session_id": 262, "sequence": [2, 2, 0, 2, 1, 1, 3]}
-{"session_id": 819, "sequence": [2, 0, 1, 0, 3]}
-{"session_id": 379, "sequence": [3, 2, 0, 3]}
-{"session_id": 910, "sequence": [3, 2, 1, 0]}
-{"session_id": 81, "sequence": [3, 0, 1, 2, 3]}
-{"session_id": "bot_1000", "sequence": [2, 0]}
-{"session_id": 545, "sequence": [1, 0, 0, 3, 1]}
-{"session_id": 378, "sequence": [3, 1, 1, 2, 2, 1, 0, 0]}
-{"session_id": 20, "sequence": [3, 2, 0, 2, 2, 3, 3]}
-{"session_id": 5, "sequence": [2, 0, 3, 3, 2, 3, 2]}
-{"session_id": "bot_1029", "sequence": [2, 3, 0]}
-{"session_id": 574, "sequence": [1, 0, 0, 0, 1, 3]}
-{"session_id": 149, "sequence": [0, 2, 2, 1, 1, 2, 3]}
-{"session_id": 711, "sequence": [1, 3, 3, 1, 0, 3, 3]}
-{"session_id": 37, "sequence": [2, 0, 0, 2, 1, 3, 1]}
-{"session_id": 206, "sequence": [1, 3, 3, 3]}
-{"session_id": 564, "sequence": [0, 1, 2, 2, 3, 0]}
-{"session_id": 715, "sequence": [0, 3, 3, 1]}
-{"session_id": "bot_1044", "sequence": [2, 1, 0]}
-{"session_id": 171, "sequence": [0, 3, 0, 3, 1, 0]}
-{"session_id": 884, "sequence": [2, 0, 1, 1, 1, 2, 1, 1]}
-{"session_id": 260, "sequence": [3, 2, 2, 3, 0, 0, 1, 2]}
-{"session_id": 119, "sequence": [0, 1, 2, 1, 2, 3]}
-{"session_id": 576, "sequence": [2, 0, 3, 2, 2, 1]}
-{"session_id": 370, "sequence": [0, 0, 0, 2, 0]}
-{"session_id": "bot_1115", "sequence": [3, 0, 2]}
-{"session_id": 225, "sequence": [1, 3, 1, 2, 0, 0, 3, 0]}
-{"session_id": 679, "sequence": [1, 0, 1, 2, 2, 3]}
-{"session_id": 190, "sequence": [2, 0, 1, 1, 3, 1, 0, 3]}
-{"session_id": 12, "sequence": [3, 3, 1, 3]}
-{"session_id": 596, "sequence": [3, 1, 2, 1, 2, 3, 2]}
-{"session_id": 417, "sequence": [3, 2, 1, 3, 2]}
-{"session_id": 10, "sequence": [1, 3, 3, 2, 3, 0, 3]}
-{"session_id": 73, "sequence": [0, 2, 1, 2, 1]}
-{"session_id": 211, "sequence": [1, 3, 3, 3, 2, 0, 0]}
-{"session_id": 355, "sequence": [1, 0, 0, 3, 2, 3]}
-{"session_id": 403, "sequence": [2, 1, 3, 3, 0]}
-{"session_id": 512, "sequence": [1, 1, 3, 1, 3]}
-{"session_id": 609, "sequence": [2, 2, 2, 3, 0, 3, 3]}
-{"session_id": 921, "sequence": [3, 0, 1, 0, 0, 1]}
-{"session_id": 259, "sequence": [2, 1, 1, 2]}
-{"session_id": "bot_1145", "sequence": [0, 2, 1]}
-{"session_id": 919, "sequence": [2, 3, 0, 2, 2, 2, 1, 2]}
-{"session_id": 258, "sequence": [0, 1, 3, 3, 3]}
-{"session_id": 154, "sequence": [0, 1, 0, 0, 3, 1]}
-{"session_id": 307, "sequence": [3, 3, 1, 0, 1, 2, 3]}
-{"session_id": 353, "sequence": [1, 3, 2, 2, 2, 3, 3]}
-{"session_id": 526, "sequence": [3, 0, 0, 1, 3]}
-{"session_id": 61, "sequence": [1, 0, 3, 3, 3, 1, 2]}
-{"session_id": 640, "sequence": [1, 2, 1, 2, 0, 2]}
-{"session_id": 601, "sequence": [0, 0, 0, 0, 3]}
-{"session_id": 254, "sequence": [0, 3, 2, 3, 3]}
-{"session_id": "bot_1016", "sequence": [0, 1, 3]}
-{"session_id": 165, "sequence": [0, 3, 3, 1]}
-{"session_id": 324, "sequence": [2, 1, 0, 2]}
-{"session_id": "bot_1141", "sequence": [3, 2]}
-{"session_id": "bot_1100", "sequence": [0, 3, 2]}
-{"session_id": 952, "sequence": [1, 0, 0, 0, 0, 3]}
-{"session_id": 716, "sequence": [3, 0, 0, 3, 1, 2, 3]}
-{"session_id": 120, "sequence": [1, 2, 0, 1, 0, 1, 0]}
-{"session_id": 517, "sequence": [1, 0, 0, 2, 3, 0]}
-{"session_id": 508, "sequence": [3, 2, 1, 3, 1, 2]}
-{"session_id": 881, "sequence": [3, 1, 1, 0, 2, 1]}
-{"session_id": 103, "sequence": [0, 1, 0, 1, 1, 2, 3]}
-{"session_id": 602, "sequence": [1, 1, 3, 2, 1, 2]}
-{"session_id": "bot_1143", "sequence": [2, 0, 3]}
-{"session_id": "bot_1123", "sequence": [0, 3, 2]}
-{"session_id": 437, "sequence": [1, 0, 0, 3]}
-{"session_id": 389, "sequence": [3, 0, 0, 0, 3, 2, 1]}
-{"session_id": 348, "sequence": [3, 3, 3, 1, 0]}
-{"session_id": "bot_1072", "sequence": [3, 2, 1, 0]}
-{"session_id": 130, "sequence": [1, 2, 3, 1, 3, 0, 1, 2]}
-{"session_id": 631, "sequence": [3, 3, 1, 0, 0, 0, 0]}
-{"session_id": "bot_1094", "sequence": [3, 0, 2, 1]}
-{"session_id": 50, "sequence": [1, 1, 3, 0, 1]}
-{"session_id": 704, "sequence": [1, 3, 0, 1, 3, 2, 3]}
-{"session_id": 328, "sequence": [2, 2, 1, 0]}
-{"session_id": 633, "sequence": [3, 1, 0, 0]}
-{"session_id": "bot_1047", "sequence": [3, 1]}
-{"session_id": 273, "sequence": [1, 1, 1, 1, 1, 3, 2]}
-{"session_id": 215, "sequence": [2, 2, 2, 0, 1, 3, 1]}
-{"session_id": 973, "sequence": [2, 1, 2, 3, 1, 2, 1, 3]}
-{"session_id": "bot_1118", "sequence": [0, 1, 2]}
-{"session_id": 96, "sequence": [2, 0, 2, 3, 0, 0, 0]}
-{"session_id": 948, "sequence": [3, 3, 3, 2, 0, 0]}
-{"session_id": "bot_1075", "sequence": [1, 3]}
-{"session_id": 53, "sequence": [1, 0, 0, 1, 1, 2, 1, 2]}
-{"session_id": 751, "sequence": [3, 2, 3, 3, 0, 1, 3, 2]}
-{"session_id": 607, "sequence": [0, 0, 2, 0, 1, 0, 0, 2]}
-{"session_id": 853, "sequence": [0, 0, 2, 0, 2]}
-{"session_id": 616, "sequence": [3, 1, 0, 3, 2, 1, 1]}
-{"session_id": 349, "sequence": [3, 3, 3, 2, 2]}
-{"session_id": "bot_1139", "sequence": [3, 2, 0]}
-{"session_id": 674, "sequence": [3, 3, 3, 1, 2]}
-{"session_id": 199, "sequence": [0, 3, 1, 3]}
-{"session_id": 638, "sequence": [3, 0, 2, 3, 1, 3]}
-{"session_id": 857, "sequence": [1, 3, 0, 3, 1]}
-{"session_id": 521, "sequence": [1, 2, 2, 0, 0, 2]}
-{"session_id": 179, "sequence": [1, 0, 2, 0, 0, 3, 1, 3]}
-{"session_id": 229, "sequence": [0, 3, 1, 2, 3, 3]}
-{"session_id": "bot_1065", "sequence": [1, 2]}
-{"session_id": 244, "sequence": [2, 3, 1, 1]}
-{"session_id": "bot_1107", "sequence": [3, 1, 2]}
-{"session_id": 885, "sequence": [0, 3, 3, 2, 2, 1, 0]}
-{"session_id": 228, "sequence": [3, 0, 3, 2, 3, 3, 2]}
-{"session_id": 612, "sequence": [0, 1, 0, 3, 0, 1]}
-{"session_id": 269, "sequence": [0, 0, 0, 2, 3, 1, 1, 0]}
-{"session_id": "bot_1083", "sequence": [1, 3, 2, 0]}
-{"session_id": 253, "sequence": [3, 3, 1, 0, 2, 0, 1]}
-{"session_id": 648, "sequence": [0, 0, 1, 2]}
-{"session_id": 941, "sequence": [1, 2, 2, 3, 2]}
-{"session_id": 136, "sequence": [2, 2, 0, 3, 3, 3]}
-{"session_id": 156, "sequence": [0, 0, 2, 1, 2, 1]}
-{"session_id": 490, "sequence": [2, 0, 2, 0, 1, 2]}
-{"session_id": 49, "sequence": [1, 1, 3, 2]}
-{"session_id": 323, "sequence": [2, 1, 3, 2]}
-{"session_id": 48, "sequence": [2, 1, 0, 1, 1, 2, 2, 0]}
-{"session_id": 102, "sequence": [0, 3, 2, 0]}
-{"session_id": 772, "sequence": [0, 1, 3, 0, 1, 0, 2]}
-{"session_id": 55, "sequence": [0, 1, 1, 3, 3]}
-{"session_id": 913, "sequence": [1, 0, 1, 1, 0]}
-{"session_id": 193, "sequence": [3, 2, 3, 1]}
-{"session_id": 191, "sequence": [3, 0, 3, 2, 2]}
-{"session_id": 822, "sequence": [3, 0, 0, 1, 3]}
-{"session_id": 562, "sequence": [2, 0, 2, 3, 2, 0, 1, 2]}
-{"session_id": 401, "sequence": [0, 1, 1, 0, 1, 0, 2, 0]}
-{"session_id": 100, "sequence": [0, 0, 1, 1, 0, 1, 1]}
-{"session_id": 942, "sequence": [2, 3, 2, 3, 2]}
-{"session_id": 441, "sequence": [0, 1, 0, 1, 3, 2]}
-{"session_id": 39, "sequence": [2, 3, 2, 3, 2, 1, 1]}
-{"session_id": 833, "sequence": [1, 3, 3, 1, 1, 1]}
-{"session_id": 219, "sequence": [3, 1, 3, 1, 3, 3]}
-{"session_id": 392, "sequence": [3, 2, 0, 2, 3]}
-{"session_id": 220, "sequence": [2, 3, 3, 3, 0]}
-{"session_id": 630, "sequence": [0, 2, 0, 3, 3]}
-{"session_id": 430, "sequence": [1, 2, 2, 1, 2, 2, 1]}
-{"session_id": 764, "sequence": [3, 2, 2, 0, 1, 1, 2]}
-{"session_id": 707, "sequence": [0, 2, 1, 1, 2, 1]}
-{"session_id": 38, "sequence": [0, 1, 1, 2, 0, 0, 3, 2]}
-{"session_id": 895, "sequence": [0, 3, 1, 3, 0, 2, 3, 2]}
-{"session_id": 250, "sequence": [3, 0, 2, 0]}
-{"session_id": 846, "sequence": [2, 2, 0, 3, 0, 1, 0]}
-{"session_id": 459, "sequence": [2, 2, 1, 0, 1]}
-{"session_id": 742, "sequence": [2, 3, 2, 0, 2, 3, 2]}
-{"session_id": 729, "sequence": [2, 1, 1, 1]}
-{"session_id": 737, "sequence": [1, 3, 2, 3, 1, 2, 2, 0]}
-{"session_id": 580, "sequence": [2, 1, 1, 1]}
-{"session_id": 268, "sequence": [0, 0, 3, 2, 0, 1, 1]}
-{"session_id": 852, "sequence": [0, 0, 1, 2, 2, 1, 3]}
-{"session_id": 891, "sequence": [0, 2, 3, 3]}
-{"session_id": 540, "sequence": [2, 1, 1, 1, 2, 3]}
-{"session_id": 249, "sequence": [2, 3, 3, 0, 3]}
-{"session_id": 24, "sequence": [0, 2, 3, 3, 2]}
-{"session_id": 34, "sequence": [1, 0, 3, 0, 3, 3, 0]}
-{"session_id": 727, "sequence": [1, 1, 1, 3, 3, 1, 2]}
-{"session_id": 625, "sequence": [3, 3, 3, 3, 2, 3, 3, 3]}
-{"session_id": 85, "sequence": [2, 0, 2, 2, 0, 1, 1]}
-{"session_id": 503, "sequence": [2, 1, 3, 2, 0, 3]}
-{"session_id": 80, "sequence": [0, 3, 0, 2, 2]}
-{"session_id": 64, "sequence": [3, 2, 2, 1]}
-{"session_id": 128, "sequence": [2, 0, 1, 1, 2, 1]}
-{"session_id": 604, "sequence": [3, 3, 2, 0, 2, 1, 3, 1]}
-{"session_id": 129, "sequence": [0, 2, 0, 0, 0]}
-{"session_id": 63, "sequence": [0, 0, 0, 1, 3]}
-{"session_id": 963, "sequence": [2, 3, 2, 3, 2, 2, 2, 0]}
-{"session_id": 844, "sequence": [3, 0, 3, 0, 0, 1]}
-{"session_id": 418, "sequence": [0, 2, 3, 3, 2, 3, 0, 2]}
-{"session_id": 660, "sequence": [0, 0, 2, 0, 0, 3]}
-{"session_id": 589, "sequence": [2, 3, 0, 1, 2, 0]}
-{"session_id": 807, "sequence": [3, 0, 0, 2, 3]}
-{"session_id": 578, "sequence": [0, 2, 0, 0, 2, 3]}
-{"session_id": 705, "sequence": [0, 3, 2, 2, 3, 0, 3]}
-{"session_id": 83, "sequence": [3, 0, 1, 1, 1]}
-{"session_id": 644, "sequence": [3, 3, 3, 1]}
-{"session_id": "bot_1104", "sequence": [0, 2, 3, 1]}
-{"session_id": 122, "sequence": [0, 0, 0, 3, 0]}
-{"session_id": 956, "sequence": [1, 0, 0, 2, 3, 2, 0, 2]}
-{"session_id": 387, "sequence": [1, 2, 0, 0, 1, 1, 3]}
-{"session_id": 227, "sequence": [2, 3, 3, 0, 1, 0]}
-{"session_id": 32, "sequence": [0, 3, 0, 3]}
-{"session_id": "bot_1032", "sequence": [0, 3]}
-{"session_id": 753, "sequence": [3, 1, 2, 2, 3, 2]}
-{"session_id": "bot_1006", "sequence": [3, 2, 1, 0]}
-{"session_id": 192, "sequence": [0, 2, 1, 2, 0, 0, 3, 1]}
-{"session_id": 451, "sequence": [0, 0, 2, 1, 2, 0, 3]}
-{"session_id": 235, "sequence": [3, 0, 1, 3, 3, 0, 3]}
-{"session_id": 222, "sequence": [1, 1, 2, 0]}
-{"session_id": 332, "sequence": [1, 1, 3, 1, 0, 3]}
-{"session_id": 406, "sequence": [1, 0, 1, 3]}
-{"session_id": 770, "sequence": [0, 2, 3, 3, 1, 0]}
-{"session_id": 993, "sequence": [3, 1, 1, 0, 0, 2, 2]}
-{"session_id": 809, "sequence": [2, 0, 3, 1]}
-{"session_id": 345, "sequence": [0, 0, 3, 0, 1]}
-{"session_id": "bot_1078", "sequence": [2, 0]}
-{"session_id": 876, "sequence": [2, 2, 3, 0, 1, 0]}
-{"session_id": 339, "sequence": [3, 1, 3, 1]}
-{"session_id": 172, "sequence": [3, 1, 0, 0, 1, 0, 1]}
-{"session_id": 449, "sequence": [2, 2, 3, 2, 0, 2, 0]}
-{"session_id": 687, "sequence": [0, 1, 1, 2]}
+{"session_id": 474, "sequence": [2, 0, 1, 1, 3, 0]}
+{"session_id": "bot_1091", "sequence": [0, 2, 1, 3]}
+{"session_id": 857, "sequence": [2, 1, 1, 2, 2, 2, 3]}
+{"session_id": 277, "sequence": [1, 3, 0, 3, 0, 3, 2, 1]}
+{"session_id": 838, "sequence": [3, 0, 2, 1, 1, 0, 0, 1]}
+{"session_id": 283, "sequence": [2, 0, 1, 0, 0, 2, 2, 3]}
+{"session_id": 758, "sequence": [2, 2, 1, 1, 2, 1, 0, 1]}
+{"session_id": 398, "sequence": [0, 3, 3, 3]}
+{"session_id": 258, "sequence": [1, 1, 0, 2, 2, 3]}
+{"session_id": 370, "sequence": [3, 3, 0, 2, 0, 2, 2]}
+{"session_id": 791, "sequence": [1, 2, 2, 1]}
+{"session_id": 708, "sequence": [2, 1, 1, 0, 2, 3, 3, 3]}
+{"session_id": 357, "sequence": [3, 2, 2, 3, 2, 2]}
+{"session_id": 417, "sequence": [2, 3, 0, 1, 3, 0, 1, 2]}
+{"session_id": 895, "sequence": [3, 2, 1, 0, 2, 0]}
+{"session_id": 382, "sequence": [3, 2, 3, 0, 1]}
+{"session_id": 783, "sequence": [0, 0, 3, 1, 1, 0]}
+{"session_id": 713, "sequence": [2, 1, 2, 0, 2]}
+{"session_id": 345, "sequence": [3, 2, 2, 2]}
+{"session_id": 567, "sequence": [0, 2, 1, 1, 1, 2, 1, 0]}
+{"session_id": 303, "sequence": [0, 3, 2, 0, 0]}
+{"session_id": 202, "sequence": [0, 3, 1, 1, 3]}
+{"session_id": 947, "sequence": [3, 2, 3, 1]}
+{"session_id": 885, "sequence": [3, 2, 1, 3, 2]}
+{"session_id": 787, "sequence": [0, 0, 0, 0, 2, 3]}
+{"session_id": "bot_1036", "sequence": [0, 1]}
+{"session_id": 769, "sequence": [3, 2, 3, 2, 0, 0, 3]}
+{"session_id": 569, "sequence": [2, 0, 0, 1, 3]}
+{"session_id": 622, "sequence": [0, 0, 0, 1, 0, 0]}
+{"session_id": 187, "sequence": [2, 2, 3, 3, 0, 3]}
+{"session_id": 579, "sequence": [3, 1, 2, 1]}
+{"session_id": 850, "sequence": [0, 1, 0, 2, 2, 1]}
+{"session_id": "bot_1138", "sequence": [1, 2]}
+{"session_id": "bot_1076", "sequence": [3, 1, 0, 2]}
+{"session_id": 749, "sequence": [2, 0, 3, 2]}
+{"session_id": 652, "sequence": [0, 2, 0, 0, 0, 2, 2, 1]}
+{"session_id": 378, "sequence": [0, 0, 1, 0, 0]}
+{"session_id": 531, "sequence": [2, 2, 0, 3, 1]}
+{"session_id": 980, "sequence": [1, 0, 2, 2, 0, 0, 0]}
+{"session_id": 216, "sequence": [3, 3, 3, 3, 2, 3, 0]}
+{"session_id": "bot_1095", "sequence": [1, 2, 3]}
+{"session_id": 589, "sequence": [1, 3, 0, 3, 2, 2, 3]}
+{"session_id": 827, "sequence": [1, 0, 0, 2, 1, 1, 0, 0]}
+{"session_id": 995, "sequence": [1, 2, 0, 0, 1, 0, 3]}
+{"session_id": 55, "sequence": [2, 3, 1, 1, 1, 1]}
+{"session_id": 344, "sequence": [0, 0, 2, 3, 0, 2, 3]}
+{"session_id": 507, "sequence": [0, 0, 1, 3, 3, 3, 3]}
+{"session_id": "bot_1033", "sequence": [2, 1, 3]}
+{"session_id": 251, "sequence": [0, 2, 0, 0, 2, 1, 2, 1]}
+{"session_id": "bot_1101", "sequence": [1, 3, 0]}
+{"session_id": 106, "sequence": [0, 2, 3, 3, 3, 3, 1]}
+{"session_id": 756, "sequence": [0, 0, 3, 0, 2, 3]}
+{"session_id": 896, "sequence": [2, 2, 1, 3, 3]}
+{"session_id": 605, "sequence": [1, 0, 0, 2]}
+{"session_id": 60, "sequence": [0, 3, 2, 1, 3, 2]}
+{"session_id": 116, "sequence": [3, 1, 0, 0, 3, 1, 2, 1]}
+{"session_id": 323, "sequence": [1, 2, 3, 3, 2, 0]}
+{"session_id": 759, "sequence": [2, 2, 3, 1, 2, 1]}
+{"session_id": 213, "sequence": [3, 3, 2, 3, 1]}
+{"session_id": "bot_1089", "sequence": [2, 1, 0]}
+{"session_id": 393, "sequence": [3, 1, 0, 0, 2, 1]}
+{"session_id": "bot_1013", "sequence": [2, 1, 0]}
+{"session_id": 326, "sequence": [2, 2, 1, 1, 2, 3]}
+{"session_id": "bot_1060", "sequence": [2, 0, 3, 1]}
+{"session_id": "bot_1004", "sequence": [3, 2]}
+{"session_id": 509, "sequence": [1, 2, 1, 1, 3, 2, 2]}
+{"session_id": 592, "sequence": [2, 0, 2, 1, 2, 2, 3]}
+{"session_id": 15, "sequence": [2, 2, 2, 3, 1, 3]}
+{"session_id": "bot_1047", "sequence": [0, 2, 1]}
+{"session_id": 246, "sequence": [1, 3, 0, 3, 3, 1, 0]}
+{"session_id": 63, "sequence": [3, 2, 1, 2]}
+{"session_id": 143, "sequence": [0, 0, 3, 1, 0, 0]}
+{"session_id": 384, "sequence": [2, 0, 1, 1]}
+{"session_id": 701, "sequence": [2, 1, 3, 3, 3, 0]}
+{"session_id": 275, "sequence": [0, 1, 2, 2]}
+{"session_id": 665, "sequence": [3, 1, 1, 3, 1, 3]}
+{"session_id": 141, "sequence": [2, 1, 0, 1, 3, 2, 1]}
+{"session_id": 519, "sequence": [1, 0, 0, 1, 1, 2]}
+{"session_id": 375, "sequence": [2, 3, 0, 1, 1]}
+{"session_id": 67, "sequence": [1, 1, 2, 2, 0]}
+{"session_id": 472, "sequence": [1, 0, 2, 1, 2, 0, 0]}
+{"session_id": 902, "sequence": [1, 0, 1, 1, 3]}
+{"session_id": 505, "sequence": [1, 2, 2, 3, 0, 3, 0, 3]}
+{"session_id": 834, "sequence": [1, 0, 2, 1, 3, 1, 0]}
+{"session_id": 109, "sequence": [0, 0, 0, 0, 2, 2, 0]}
+{"session_id": 636, "sequence": [0, 0, 2, 3, 0, 3]}
+{"session_id": 483, "sequence": [1, 3, 1, 0, 2, 2, 1, 3]}
+{"session_id": 175, "sequence": [3, 3, 0, 3, 2, 0, 3, 2]}
+{"session_id": "bot_1096", "sequence": [2, 3, 1]}
+{"session_id": 440, "sequence": [0, 2, 1, 3, 2]}
+{"session_id": 128, "sequence": [0, 3, 3, 2, 3]}
+{"session_id": 841, "sequence": [0, 0, 2, 3, 3, 3]}
+{"session_id": 208, "sequence": [1, 3, 1, 3, 3, 3, 0]}
+{"session_id": 361, "sequence": [2, 0, 2, 3, 2, 1, 3]}
+{"session_id": 731, "sequence": [3, 0, 2, 1]}
+{"session_id": 835, "sequence": [0, 0, 1, 1, 2, 3, 2]}
+{"session_id": 339, "sequence": [3, 0, 1, 3, 0, 1]}
+{"session_id": "bot_1072", "sequence": [1, 3]}
+{"session_id": 376, "sequence": [2, 3, 0, 3, 0]}
+{"session_id": 291, "sequence": [2, 3, 2, 0, 2, 2]}
+{"session_id": 541, "sequence": [3, 1, 0, 1]}
+{"session_id": 446, "sequence": [3, 1, 2, 0, 2]}
+{"session_id": 272, "sequence": [2, 0, 1, 1]}
+{"session_id": 820, "sequence": [0, 2, 3, 1]}
+{"session_id": 276, "sequence": [0, 3, 2, 3]}
+{"session_id": 901, "sequence": [1, 2, 2, 1]}
+{"session_id": 693, "sequence": [0, 2, 2, 2, 0, 1]}
+{"session_id": 261, "sequence": [0, 2, 0, 0, 3, 0]}
+{"session_id": 85, "sequence": [1, 0, 1, 3, 3, 3]}
+{"session_id": 18, "sequence": [0, 2, 3, 0, 3, 0, 0]}
+{"session_id": "bot_1111", "sequence": [0, 1]}
+{"session_id": "bot_1121", "sequence": [2, 0, 1]}
+{"session_id": 253, "sequence": [1, 0, 2, 3, 2, 1]}
+{"session_id": 32, "sequence": [1, 3, 0, 2]}
+{"session_id": 549, "sequence": [3, 1, 3, 1, 2, 2, 1]}
+{"session_id": 102, "sequence": [0, 1, 1, 1, 2, 0, 3]}
+{"session_id": 479, "sequence": [2, 2, 0, 2, 2, 2, 0]}
+{"session_id": "bot_1075", "sequence": [2, 0, 1]}
+{"session_id": 664, "sequence": [3, 2, 0, 2, 1]}
+{"session_id": 284, "sequence": [2, 0, 1, 3, 3, 2, 3]}
+{"session_id": 932, "sequence": [2, 1, 0, 1, 3, 2, 3, 3]}
+{"session_id": 899, "sequence": [1, 0, 2, 1, 0, 2]}
+{"session_id": 244, "sequence": [2, 0, 2, 1, 0, 1, 1]}
+{"session_id": 93, "sequence": [1, 2, 1, 2, 0, 2, 0, 1]}
+{"session_id": 300, "sequence": [3, 1, 0, 3, 1, 0, 0, 2]}
+{"session_id": 512, "sequence": [3, 3, 1, 0, 3, 2, 0]}
+{"session_id": 600, "sequence": [2, 3, 1, 0, 3]}
+{"session_id": 748, "sequence": [3, 0, 3, 3, 2, 0, 3]}
+{"session_id": 539, "sequence": [0, 2, 0, 3]}
+{"session_id": "bot_1144", "sequence": [3, 2]}
+{"session_id": "bot_1011", "sequence": [2, 3]}
+{"session_id": 332, "sequence": [0, 0, 0, 0, 1, 3, 3]}
+{"session_id": 48, "sequence": [0, 2, 3, 3, 3]}
+{"session_id": 44, "sequence": [1, 2, 2, 0, 2, 1, 2, 1]}
+{"session_id": 54, "sequence": [1, 1, 2, 0]}
+{"session_id": 553, "sequence": [3, 2, 2, 1, 1]}
+{"session_id": 240, "sequence": [2, 0, 1, 3, 3, 1, 0, 3]}
+{"session_id": 329, "sequence": [3, 2, 3, 2, 1]}
+{"session_id": 654, "sequence": [3, 0, 3, 2, 0, 0]}
+{"session_id": 123, "sequence": [1, 0, 2, 2, 0, 0]}
+{"session_id": 52, "sequence": [1, 2, 1, 2, 0]}
+{"session_id": 256, "sequence": [0, 0, 2, 1, 1, 1]}
+{"session_id": "bot_1032", "sequence": [1, 3]}
+{"session_id": "bot_1087", "sequence": [3, 0, 1]}
+{"session_id": 159, "sequence": [0, 0, 1, 1, 2, 1, 2]}
+{"session_id": 953, "sequence": [2, 0, 3, 1, 1, 3, 3]}
+{"session_id": 630, "sequence": [3, 2, 1, 3, 2, 1, 3]}
+{"session_id": 250, "sequence": [0, 1, 1, 3, 3, 0]}
+{"session_id": "bot_1071", "sequence": [3, 1, 0]}
+{"session_id": 500, "sequence": [0, 3, 1, 0, 0]}
+{"session_id": 952, "sequence": [0, 0, 3, 3, 2]}
+{"session_id": 606, "sequence": [1, 1, 2, 3, 3, 3, 1, 3]}
+{"session_id": 499, "sequence": [3, 1, 0, 1, 0, 1]}
+{"session_id": 755, "sequence": [2, 3, 2, 1]}
+{"session_id": 797, "sequence": [2, 0, 2, 2, 2, 0, 2, 0]}
+{"session_id": "bot_1090", "sequence": [2, 0, 1, 3]}
+{"session_id": 730, "sequence": [3, 3, 2, 1, 3, 0, 3, 3]}
+{"session_id": 269, "sequence": [2, 2, 1, 0, 3, 3, 0, 0]}
+{"session_id": 334, "sequence": [2, 1, 2, 2, 1, 2]}
+{"session_id": 782, "sequence": [3, 1, 0, 2, 3, 1, 3]}
+{"session_id": 400, "sequence": [0, 0, 3, 1, 0]}
+{"session_id": 496, "sequence": [0, 2, 2, 0, 0, 1, 1, 1]}
+{"session_id": "bot_1069", "sequence": [1, 2, 3]}
+{"session_id": 862, "sequence": [2, 3, 0, 3]}
+{"session_id": 784, "sequence": [0, 1, 2, 3, 1, 0, 2]}
+{"session_id": 238, "sequence": [3, 2, 2, 3, 2]}
+{"session_id": "bot_1127", "sequence": [3, 2, 1, 0]}
+{"session_id": 235, "sequence": [2, 0, 3, 2, 3, 1, 3, 3]}
+{"session_id": 950, "sequence": [0, 0, 1, 2, 1, 2]}
+{"session_id": 844, "sequence": [3, 2, 0, 2, 1, 0]}
+{"session_id": 828, "sequence": [2, 0, 2, 0, 1]}
+{"session_id": 593, "sequence": [0, 0, 3, 1, 2]}
+{"session_id": 709, "sequence": [0, 0, 3, 3, 0, 0]}
+{"session_id": 712, "sequence": [2, 1, 2, 1, 0]}
+{"session_id": 574, "sequence": [3, 0, 0, 0, 0, 2]}
+{"session_id": "bot_1078", "sequence": [2, 0, 3]}
+{"session_id": 114, "sequence": [3, 0, 0, 3, 3, 2, 1, 2]}
+{"session_id": 977, "sequence": [2, 1, 3, 2, 0, 0]}
+{"session_id": 513, "sequence": [1, 1, 2, 1, 0, 2, 0, 1]}
+{"session_id": 289, "sequence": [2, 1, 3, 3, 1, 0, 3, 2]}
+{"session_id": 465, "sequence": [2, 0, 0, 2, 3]}
+{"session_id": 969, "sequence": [2, 1, 0, 1, 1, 3, 2, 3]}
+{"session_id": 728, "sequence": [0, 3, 2, 2]}
+{"session_id": 937, "sequence": [0, 0, 3, 2, 1, 0, 2]}
+{"session_id": "bot_1106", "sequence": [0, 3, 1, 2]}
+{"session_id": 957, "sequence": [1, 2, 0, 1, 0, 1, 0, 3]}
+{"session_id": 245, "sequence": [1, 3, 1, 3, 0, 3, 2, 2]}
+{"session_id": 920, "sequence": [1, 1, 0, 1, 2, 3, 3, 3]}
 {"session_id": "bot_1025", "sequence": [1, 2, 0]}
-{"session_id": 15, "sequence": [2, 0, 3, 0, 2]}
-{"session_id": 622, "sequence": [0, 1, 2, 3, 1]}
-{"session_id": 816, "sequence": [2, 2, 2, 2, 3, 1, 2, 2]}
-{"session_id": 834, "sequence": [2, 3, 2, 1, 1, 3, 1]}
-{"session_id": 271, "sequence": [2, 0, 1, 0, 0]}
-{"session_id": 947, "sequence": [3, 3, 3, 2, 1, 2, 0]}
-{"session_id": 650, "sequence": [3, 0, 2, 3, 1, 2]}
-{"session_id": 455, "sequence": [0, 3, 1, 3, 1, 0]}
-{"session_id": 147, "sequence": [0, 0, 2, 2, 1]}
-{"session_id": 310, "sequence": [2, 2, 2, 0, 2, 3, 3, 0]}
-{"session_id": 861, "sequence": [2, 1, 2, 0, 2]}
-{"session_id": 145, "sequence": [0, 1, 2, 2, 0, 3, 2, 1]}
-{"session_id": 568, "sequence": [3, 2, 3, 0]}
-{"session_id": 217, "sequence": [2, 3, 1, 1, 0]}
-{"session_id": 56, "sequence": [3, 2, 0, 2, 2, 3]}
-{"session_id": "bot_1126", "sequence": [3, 2, 1]}
-{"session_id": 814, "sequence": [3, 1, 2, 2, 0, 1]}
-{"session_id": 108, "sequence": [3, 1, 2, 0]}
-{"session_id": 7, "sequence": [0, 1, 2, 0, 0, 0]}
-{"session_id": 603, "sequence": [2, 3, 2, 2, 0]}
-{"session_id": 123, "sequence": [1, 2, 0, 3]}
-{"session_id": 960, "sequence": [2, 3, 3, 3, 1, 3, 3]}
-{"session_id": 860, "sequence": [2, 0, 0, 3, 3, 2]}
-{"session_id": 495, "sequence": [3, 3, 3, 1, 2, 2]}
-{"session_id": 110, "sequence": [1, 1, 3, 3]}
-{"session_id": 826, "sequence": [1, 0, 0, 2]}
-{"session_id": "bot_1017", "sequence": [1, 2, 0, 3]}
-{"session_id": 938, "sequence": [3, 2, 2, 1, 2, 3]}
-{"session_id": "bot_1069", "sequence": [3, 0]}
-{"session_id": 435, "sequence": [2, 3, 2, 3, 3, 0]}
+{"session_id": 225, "sequence": [0, 3, 0, 2, 1, 2]}
+{"session_id": 56, "sequence": [1, 3, 1, 0, 2, 2, 1, 0]}
+{"session_id": "bot_1058", "sequence": [0, 2, 1, 3]}
+{"session_id": 719, "sequence": [3, 2, 3, 1]}
+{"session_id": 293, "sequence": [1, 2, 2, 1, 1, 2]}
+{"session_id": 721, "sequence": [3, 0, 1, 0, 0, 2, 2, 3]}
+{"session_id": 200, "sequence": [2, 1, 2, 3, 2]}
+{"session_id": 524, "sequence": [2, 3, 2, 1]}
+{"session_id": 94, "sequence": [2, 2, 2, 0]}
+{"session_id": 470, "sequence": [3, 2, 1, 2, 0, 0, 0]}
+{"session_id": 819, "sequence": [2, 2, 2, 1, 3]}
+{"session_id": 100, "sequence": [0, 0, 2, 3, 0, 2, 1]}
+{"session_id": 985, "sequence": [0, 0, 3, 1]}
+{"session_id": 943, "sequence": [0, 0, 1, 0, 2, 1, 1]}
+{"session_id": 104, "sequence": [1, 1, 0, 2, 1, 1]}
+{"session_id": 581, "sequence": [0, 2, 1, 3, 0, 2, 1, 2]}
+{"session_id": 812, "sequence": [3, 3, 2, 0, 3]}
+{"session_id": 776, "sequence": [1, 0, 0, 0, 1, 2]}
+{"session_id": 167, "sequence": [0, 2, 0, 2, 2, 1, 3]}
+{"session_id": 395, "sequence": [0, 0, 0, 0, 0, 2, 2]}
+{"session_id": 397, "sequence": [0, 3, 3, 2, 1]}
+{"session_id": 530, "sequence": [1, 2, 1, 1]}
+{"session_id": 733, "sequence": [2, 1, 2, 0]}
+{"session_id": 548, "sequence": [0, 1, 3, 2, 0]}
+{"session_id": 340, "sequence": [3, 1, 0, 2, 1]}
+{"session_id": 986, "sequence": [1, 1, 1, 3, 2]}
+{"session_id": 183, "sequence": [0, 3, 1, 3, 3, 2, 0, 3]}
+{"session_id": 552, "sequence": [2, 3, 2, 0, 3]}
+{"session_id": 131, "sequence": [1, 1, 3, 3, 3, 2]}
+{"session_id": 125, "sequence": [3, 2, 0, 2, 0, 3, 3]}
+{"session_id": 2, "sequence": [3, 2, 2, 3, 3, 1]}
+{"session_id": 35, "sequence": [3, 1, 3, 3, 1]}
+{"session_id": 958, "sequence": [2, 3, 1, 3]}
+{"session_id": "bot_1133", "sequence": [2, 0, 3]}
+{"session_id": 893, "sequence": [0, 0, 0, 2, 0, 2]}
+{"session_id": 696, "sequence": [3, 3, 1, 3]}
+{"session_id": "bot_1109", "sequence": [2, 0, 1]}
+{"session_id": 16, "sequence": [1, 3, 2, 3, 0]}
+{"session_id": "bot_1113", "sequence": [0, 1, 3, 2]}
+{"session_id": 152, "sequence": [3, 0, 1, 1, 1]}
+{"session_id": 670, "sequence": [3, 0, 2, 3, 1, 3, 3]}
+{"session_id": "bot_1000", "sequence": [2, 0]}
+{"session_id": 966, "sequence": [0, 3, 0, 0, 0]}
+{"session_id": 621, "sequence": [2, 1, 3, 0, 3, 2, 0, 0]}
+{"session_id": 188, "sequence": [3, 3, 2, 0, 0, 2]}
+{"session_id": 851, "sequence": [2, 2, 0, 0, 2, 2, 1]}
+{"session_id": "bot_1104", "sequence": [2, 3, 1, 0]}
+{"session_id": "bot_1038", "sequence": [0, 3, 1, 2]}
+{"session_id": 305, "sequence": [2, 0, 2, 1, 1, 2, 2]}
+{"session_id": 780, "sequence": [2, 0, 1, 0, 3, 1, 2]}
+{"session_id": 346, "sequence": [3, 0, 2, 0, 2, 3, 2]}
+{"session_id": 268, "sequence": [2, 0, 1, 3]}
+{"session_id": 536, "sequence": [1, 1, 0, 2, 3, 1, 3]}
+{"session_id": 215, "sequence": [0, 3, 0, 1, 1, 1, 2, 0]}
+{"session_id": 139, "sequence": [0, 2, 2, 0, 3, 2, 0]}
+{"session_id": "bot_1062", "sequence": [1, 0]}
+{"session_id": 129, "sequence": [0, 3, 3, 3, 0, 1]}
+{"session_id": "bot_1064", "sequence": [3, 2, 1, 0]}
+{"session_id": 588, "sequence": [0, 2, 1, 2, 2, 2]}
+{"session_id": 29, "sequence": [2, 1, 0, 1, 3]}
+{"session_id": "bot_1070", "sequence": [2, 1, 3]}
+{"session_id": 481, "sequence": [0, 3, 2, 2, 3, 3]}
+{"session_id": 432, "sequence": [3, 0, 2, 0, 0]}
+{"session_id": 42, "sequence": [0, 3, 2, 1, 0]}
+{"session_id": 637, "sequence": [0, 0, 1, 3]}
+{"session_id": 809, "sequence": [2, 1, 2, 2, 0, 1]}
+{"session_id": 501, "sequence": [2, 0, 3, 2, 3, 1]}
+{"session_id": 324, "sequence": [2, 2, 2, 3, 0, 1, 3]}
+{"session_id": 88, "sequence": [1, 3, 0, 3, 3, 2, 1, 0]}
+{"session_id": 248, "sequence": [1, 2, 2, 0]}
+{"session_id": 508, "sequence": [2, 2, 1, 0, 1, 0]}
+{"session_id": 940, "sequence": [1, 3, 1, 3, 1]}
+{"session_id": 927, "sequence": [2, 3, 1, 0, 2, 0]}
+{"session_id": 287, "sequence": [3, 2, 0, 1, 0, 3, 1]}
+{"session_id": 582, "sequence": [0, 0, 0, 2, 1, 1, 2, 3]}
+{"session_id": 41, "sequence": [2, 0, 3, 0, 2]}
+{"session_id": 241, "sequence": [2, 3, 3, 2, 2]}
+{"session_id": 777, "sequence": [3, 3, 1, 2, 3, 2, 1]}
+{"session_id": 352, "sequence": [3, 2, 2, 1]}
+{"session_id": 424, "sequence": [0, 0, 1, 2, 3]}
+{"session_id": 558, "sequence": [1, 0, 2, 3, 1, 0, 2]}
+{"session_id": 685, "sequence": [2, 2, 0, 1, 3, 0, 0, 1]}
+{"session_id": 363, "sequence": [2, 2, 3, 3, 2, 2, 2]}
+{"session_id": 873, "sequence": [3, 3, 2, 1, 0, 0, 1, 2]}
+{"session_id": 869, "sequence": [2, 3, 0, 1, 2, 0, 1]}
+{"session_id": 9, "sequence": [0, 3, 3, 3, 3]}
+{"session_id": 671, "sequence": [1, 0, 3, 1, 3, 0]}
+{"session_id": 372, "sequence": [0, 3, 1, 2, 1, 3, 3]}
+{"session_id": 849, "sequence": [2, 1, 0, 3]}
+{"session_id": 460, "sequence": [3, 3, 1, 2, 0]}
+{"session_id": 23, "sequence": [0, 1, 2, 2, 0, 1, 1]}
+{"session_id": 220, "sequence": [0, 0, 2, 2]}
+{"session_id": 279, "sequence": [2, 0, 3, 2]}
+{"session_id": 396, "sequence": [3, 2, 2, 3, 2]}
+{"session_id": 663, "sequence": [0, 0, 0, 3, 3]}
+{"session_id": "bot_1100", "sequence": [0, 2, 1]}
+{"session_id": 140, "sequence": [0, 2, 1, 1, 3, 2, 2, 0]}
+{"session_id": 523, "sequence": [2, 2, 2, 2, 2, 0, 2]}
+{"session_id": 454, "sequence": [2, 2, 2, 0, 1, 2, 0]}
+{"session_id": 919, "sequence": [1, 1, 0, 3]}
+{"session_id": 179, "sequence": [0, 3, 1, 0, 1, 2, 3, 0]}
+{"session_id": 262, "sequence": [2, 2, 3, 0, 1]}
+{"session_id": "bot_1142", "sequence": [3, 2, 0]}
+{"session_id": 153, "sequence": [3, 3, 1, 0, 1]}
+{"session_id": 550, "sequence": [0, 0, 1, 0, 1, 0, 0]}
+{"session_id": 281, "sequence": [1, 3, 2, 1, 3, 1, 1]}
+{"session_id": "bot_1003", "sequence": [0, 2, 1]}
+{"session_id": 51, "sequence": [2, 2, 2, 0, 2, 1, 0, 1]}
+{"session_id": 515, "sequence": [3, 2, 0, 1]}
+{"session_id": 824, "sequence": [1, 1, 2, 3, 1, 1]}
+{"session_id": "bot_1065", "sequence": [1, 2, 3]}
+{"session_id": 391, "sequence": [2, 1, 0, 1, 3]}
+{"session_id": 870, "sequence": [0, 1, 3, 2, 2, 1, 0]}
+{"session_id": 836, "sequence": [2, 1, 2, 0, 1, 1, 1]}
+{"session_id": 113, "sequence": [2, 0, 0, 1, 2, 1, 2]}
+{"session_id": 578, "sequence": [2, 3, 2, 0, 3, 2]}
+{"session_id": "bot_1105", "sequence": [1, 3]}
+{"session_id": 157, "sequence": [3, 0, 1, 0]}
+{"session_id": 174, "sequence": [3, 2, 2, 1, 1, 2, 1]}
+{"session_id": 727, "sequence": [1, 2, 3, 2, 1, 1]}
+{"session_id": 674, "sequence": [1, 3, 1, 3, 0]}
+{"session_id": 968, "sequence": [3, 2, 1, 2, 1]}
+{"session_id": 230, "sequence": [2, 3, 3, 3, 0, 2, 0]}
+{"session_id": 22, "sequence": [0, 3, 3, 3, 3, 0, 3, 1]}
+{"session_id": 373, "sequence": [0, 3, 2, 3]}
+{"session_id": 115, "sequence": [1, 0, 2, 3, 0, 3]}
+{"session_id": 450, "sequence": [3, 1, 1, 1, 3]}
+{"session_id": 198, "sequence": [2, 0, 1, 0, 1]}
+{"session_id": 811, "sequence": [2, 3, 0, 3, 1, 0]}
+{"session_id": 13, "sequence": [0, 1, 3, 3]}
+{"session_id": 617, "sequence": [2, 1, 0, 0, 2]}
+{"session_id": 875, "sequence": [2, 3, 1, 2, 3]}
+{"session_id": 847, "sequence": [3, 3, 3, 3]}
+{"session_id": 908, "sequence": [1, 1, 1, 1, 0, 2, 1, 3]}
+{"session_id": 437, "sequence": [2, 1, 3, 3, 2, 0, 3, 1]}
+{"session_id": 516, "sequence": [2, 0, 3, 1, 0, 0, 2]}
+{"session_id": 480, "sequence": [1, 2, 3, 1, 0, 1]}
+{"session_id": 678, "sequence": [1, 2, 0, 3, 3, 1, 1]}
+{"session_id": 369, "sequence": [3, 0, 1, 1, 0, 1, 0]}
+{"session_id": "bot_1018", "sequence": [3, 2]}
+{"session_id": 767, "sequence": [3, 2, 3, 3]}
+{"session_id": 872, "sequence": [3, 2, 3, 2, 1]}
+{"session_id": 839, "sequence": [0, 2, 2, 0, 2, 1, 3, 1]}
+{"session_id": 237, "sequence": [0, 0, 2, 2, 3, 2]}
+{"session_id": 764, "sequence": [3, 0, 2, 0, 1, 2, 1]}
+{"session_id": 657, "sequence": [3, 2, 3, 3, 2, 3, 3, 2]}
+{"session_id": "bot_1051", "sequence": [2, 3]}
 {"session_id": "bot_1080", "sequence": [0, 1, 3, 2]}
-{"session_id": "bot_1060", "sequence": [2, 3]}
-{"session_id": 721, "sequence": [1, 3, 2, 3]}
-{"session_id": "bot_1026", "sequence": [3, 1, 2, 0]}
-{"session_id": 43, "sequence": [0, 0, 0, 0]}
-{"session_id": 116, "sequence": [2, 3, 0, 1, 0]}
-{"session_id": 507, "sequence": [0, 2, 1, 2, 2]}
-{"session_id": 829, "sequence": [2, 1, 1, 3]}
-{"session_id": 446, "sequence": [3, 1, 3, 0, 0, 0, 2]}
-{"session_id": "bot_1073", "sequence": [3, 0, 1]}
-{"session_id": 66, "sequence": [1, 3, 2, 1, 2]}
-{"session_id": 535, "sequence": [1, 3, 2, 0, 0, 1]}
-{"session_id": 849, "sequence": [0, 2, 1, 0, 1, 2]}
-{"session_id": 410, "sequence": [2, 2, 2, 2, 1]}
-{"session_id": 213, "sequence": [3, 3, 0, 3]}
-{"session_id": 842, "sequence": [3, 2, 3, 0, 3]}
-{"session_id": 182, "sequence": [3, 1, 3, 3]}
-{"session_id": 858, "sequence": [3, 2, 0, 0, 1, 2, 3]}
-{"session_id": 945, "sequence": [0, 1, 2, 1, 2, 3, 0, 0]}
-{"session_id": 611, "sequence": [0, 3, 2, 1, 1, 2]}
-{"session_id": 720, "sequence": [0, 2, 2, 2, 2, 1, 1, 1]}
-{"session_id": 917, "sequence": [3, 3, 0, 0, 3, 0]}
-{"session_id": 69, "sequence": [1, 0, 0, 2, 2, 2, 2]}
-{"session_id": 558, "sequence": [0, 3, 3, 1, 2]}
-{"session_id": 801, "sequence": [1, 3, 1, 2, 0]}
-{"session_id": 937, "sequence": [0, 2, 3, 1, 3, 1]}
-{"session_id": 336, "sequence": [1, 2, 2, 3, 3, 1]}
-{"session_id": "bot_1036", "sequence": [0, 3, 1]}
-{"session_id": 423, "sequence": [1, 2, 3, 2]}
-{"session_id": "bot_1114", "sequence": [0, 3, 2]}
-{"session_id": 396, "sequence": [1, 3, 3, 0]}
-{"session_id": 812, "sequence": [1, 2, 1, 2, 1, 0]}
-{"session_id": 467, "sequence": [3, 0, 0, 3, 0, 3, 1]}
-{"session_id": "bot_1066", "sequence": [2, 3]}
-{"session_id": "bot_1033", "sequence": [2, 1]}
-{"session_id": 173, "sequence": [1, 3, 3, 2, 1]}
-{"session_id": 695, "sequence": [1, 0, 1, 2, 0]}
-{"session_id": 394, "sequence": [2, 1, 0, 0, 1, 0]}
-{"session_id": "bot_1019", "sequence": [3, 2]}
-{"session_id": 779, "sequence": [3, 1, 0, 3, 1, 0, 1]}
-{"session_id": 841, "sequence": [1, 0, 1, 2]}
-{"session_id": 391, "sequence": [2, 0, 2, 3]}
-{"session_id": 739, "sequence": [2, 0, 3, 2, 2]}
-{"session_id": "bot_1030", "sequence": [0, 3, 2]}
-{"session_id": 944, "sequence": [0, 0, 0, 0, 1, 1]}
-{"session_id": 112, "sequence": [0, 0, 0, 3, 2, 2, 2, 1]}
-{"session_id": 592, "sequence": [0, 0, 3, 1, 2, 3]}
-{"session_id": 909, "sequence": [3, 1, 1, 1, 2]}
-{"session_id": 565, "sequence": [0, 0, 2, 3, 1, 3, 0]}
-{"session_id": 1, "sequence": [2, 3, 2, 2, 3, 1]}
-{"session_id": 731, "sequence": [3, 0, 1, 1, 2, 3]}
-{"session_id": 796, "sequence": [0, 2, 1, 1, 2, 2, 0, 1]}
-{"session_id": 532, "sequence": [2, 0, 2, 1, 0, 3, 3, 3]}
-{"session_id": 286, "sequence": [1, 0, 0, 1, 0, 3, 1]}
-{"session_id": "bot_1040", "sequence": [0, 1]}
-{"session_id": 889, "sequence": [3, 3, 0, 2, 0]}
-{"session_id": 198, "sequence": [2, 1, 3, 0, 0, 1, 1, 1]}
-{"session_id": "bot_1007", "sequence": [2, 1, 3]}
-{"session_id": 299, "sequence": [3, 3, 1, 0, 1]}
-{"session_id": 72, "sequence": [3, 3, 0, 2, 0, 2, 3, 0]}
-{"session_id": 264, "sequence": [2, 3, 1, 2, 1, 2, 3, 1]}
-{"session_id": 871, "sequence": [0, 1, 2, 3, 0, 1]}
-{"session_id": 246, "sequence": [0, 1, 1, 1, 0]}
-{"session_id": 30, "sequence": [0, 2, 1, 1, 2, 0, 2, 2]}
-{"session_id": 178, "sequence": [3, 2, 2, 1, 1, 3, 0]}
-{"session_id": 434, "sequence": [3, 3, 3, 0, 1, 3]}
-{"session_id": 74, "sequence": [3, 0, 3, 1, 3, 1, 3]}
-{"session_id": 126, "sequence": [2, 0, 0, 1, 3, 0, 2]}
-{"session_id": 696, "sequence": [2, 0, 2, 1, 0]}
-{"session_id": 113, "sequence": [3, 1, 3, 0, 0, 2]}
-{"session_id": 750, "sequence": [2, 0, 3, 1, 0]}
-{"session_id": 383, "sequence": [2, 2, 1, 0, 3, 3, 1, 3]}
-{"session_id": 780, "sequence": [2, 0, 2, 0, 2, 2]}
-{"session_id": 989, "sequence": [1, 3, 2, 0]}
-{"session_id": 402, "sequence": [0, 2, 1, 1, 2, 2, 1]}
-{"session_id": 551, "sequence": [1, 1, 0, 2, 2, 1]}
-{"session_id": "bot_1084", "sequence": [0, 3, 1, 2]}
-{"session_id": 506, "sequence": [1, 2, 3, 1, 1, 2, 1]}
-{"session_id": 605, "sequence": [3, 0, 2, 0, 0, 1, 3]}
-{"session_id": 767, "sequence": [0, 2, 0, 2, 1, 2, 0, 2]}
-{"session_id": 212, "sequence": [2, 1, 0, 0, 1, 0]}
-{"session_id": "bot_1090", "sequence": [2, 1, 0, 3]}
-{"session_id": 931, "sequence": [2, 0, 3, 0, 0]}
-{"session_id": 346, "sequence": [3, 0, 2, 3]}
-{"session_id": 476, "sequence": [0, 1, 3, 3, 3, 1]}
-{"session_id": 894, "sequence": [3, 3, 3, 1, 1]}
-{"session_id": 813, "sequence": [3, 2, 2, 2]}
-{"session_id": 0, "sequence": [3, 1, 2, 0, 3, 3, 2]}
-{"session_id": "bot_1010", "sequence": [1, 2, 3, 0]}
-{"session_id": 528, "sequence": [2, 1, 1, 3, 0, 3]}
-{"session_id": 82, "sequence": [3, 3, 1, 2]}
-{"session_id": 926, "sequence": [0, 2, 0, 3, 2]}
-{"session_id": 270, "sequence": [1, 0, 1, 2, 2, 3]}
-{"session_id": 168, "sequence": [2, 1, 3, 0]}
-{"session_id": 733, "sequence": [0, 3, 3, 2, 1]}
-{"session_id": 997, "sequence": [1, 1, 0, 3]}
-{"session_id": 943, "sequence": [2, 3, 1, 0, 0, 2, 0]}
-{"session_id": 893, "sequence": [1, 2, 2, 2, 2, 2, 2]}
-{"session_id": 343, "sequence": [3, 3, 3, 2, 1, 2]}
-{"session_id": 868, "sequence": [2, 3, 3, 0, 0, 1, 3]}
-{"session_id": 431, "sequence": [0, 3, 1, 2, 3]}
-{"session_id": 330, "sequence": [3, 2, 1, 0]}
-{"session_id": 425, "sequence": [1, 1, 3, 1]}
-{"session_id": 864, "sequence": [2, 2, 3, 1, 0, 1, 2]}
-{"session_id": 823, "sequence": [2, 1, 2, 0, 3]}
-{"session_id": 789, "sequence": [1, 2, 0, 0, 3, 0, 3]}
-{"session_id": 990, "sequence": [0, 0, 0, 1, 3, 1]}
-{"session_id": 968, "sequence": [3, 3, 2, 0]}
-{"session_id": 491, "sequence": [2, 2, 2, 1, 2, 0]}
-{"session_id": 516, "sequence": [0, 0, 2, 0, 3]}
-{"session_id": "bot_1098", "sequence": [0, 2]}
-{"session_id": 93, "sequence": [1, 1, 1, 2, 2]}
-{"session_id": 998, "sequence": [2, 0, 2, 3, 3, 2, 1]}
-{"session_id": 461, "sequence": [3, 1, 0, 0]}
-{"session_id": 372, "sequence": [3, 2, 1, 0, 3, 1, 2, 3]}
-{"session_id": 642, "sequence": [0, 2, 2, 1, 3, 2, 3, 3]}
-{"session_id": 483, "sequence": [2, 1, 0, 2, 0, 0]}
-{"session_id": 448, "sequence": [3, 2, 3, 1, 2]}
-{"session_id": 930, "sequence": [3, 2, 0, 0, 3, 1, 0]}
-{"session_id": 471, "sequence": [1, 2, 0, 2, 3, 3, 0, 1]}
-{"session_id": 242, "sequence": [3, 2, 0, 1, 0]}
-{"session_id": 795, "sequence": [2, 3, 3, 0, 2, 2, 3, 0]}
-{"session_id": 771, "sequence": [0, 0, 1, 3, 2, 1, 3, 3]}
-{"session_id": "bot_1005", "sequence": [0, 1, 3]}
-{"session_id": 295, "sequence": [0, 2, 3, 2, 0]}
-{"session_id": 566, "sequence": [3, 1, 3, 1]}
-{"session_id": 237, "sequence": [3, 3, 1, 3, 1, 2, 2, 2]}
-{"session_id": 124, "sequence": [0, 2, 1, 2, 3, 1, 1]}
-{"session_id": 579, "sequence": [0, 1, 2, 1, 1]}
-{"session_id": 698, "sequence": [0, 0, 1, 1, 1]}
-{"session_id": 838, "sequence": [2, 2, 0, 0, 1, 2, 2, 3]}
-{"session_id": 873, "sequence": [0, 2, 1, 2, 3, 0, 3]}
-{"session_id": 614, "sequence": [3, 1, 1, 1, 0]}
-{"session_id": 888, "sequence": [3, 0, 3, 2, 2, 3, 1, 2]}
-{"session_id": 480, "sequence": [1, 0, 2, 0, 0]}
-{"session_id": 374, "sequence": [1, 3, 2, 3, 0, 0, 1, 2]}
-{"session_id": "bot_1129", "sequence": [1, 2, 0, 3]}
-{"session_id": 443, "sequence": [2, 0, 2, 1, 1, 3]}
-{"session_id": "bot_1055", "sequence": [3, 1]}
-{"session_id": 799, "sequence": [2, 1, 2, 1, 2, 3, 0, 2]}
-{"session_id": 16, "sequence": [1, 0, 3, 3]}
-{"session_id": 308, "sequence": [3, 0, 2, 0, 0, 2, 1, 2]}
-{"session_id": 42, "sequence": [2, 1, 0, 3, 3, 1, 2, 2]}
-{"session_id": 766, "sequence": [1, 0, 1, 3, 1, 3]}
-{"session_id": 537, "sequence": [0, 1, 0, 3]}
-{"session_id": "bot_1128", "sequence": [3, 0]}
-{"session_id": 567, "sequence": [3, 0, 1, 2, 3, 2, 1, 2]}
-{"session_id": 475, "sequence": [2, 0, 3, 0, 2, 0]}
-{"session_id": 84, "sequence": [0, 1, 1, 2, 3, 2]}
-{"session_id": 980, "sequence": [2, 2, 1, 2, 3]}
-{"session_id": 964, "sequence": [1, 2, 0, 1]}
-{"session_id": 671, "sequence": [2, 2, 0, 0, 2, 2, 0]}
-{"session_id": 666, "sequence": [2, 1, 2, 0, 1, 2, 1]}
-{"session_id": 152, "sequence": [2, 3, 3, 2, 0, 3, 0]}
-{"session_id": 181, "sequence": [0, 3, 1, 1, 0, 1, 0, 2]}
-{"session_id": 620, "sequence": [3, 2, 2, 3]}
-{"session_id": 870, "sequence": [3, 2, 2, 1, 1]}
-{"session_id": 285, "sequence": [3, 2, 3, 2, 2, 3]}
-{"session_id": "bot_1064", "sequence": [3, 0, 2, 1]}
-{"session_id": 486, "sequence": [3, 1, 2, 3]}
-{"session_id": 239, "sequence": [3, 2, 1, 0, 0, 0, 1]}
-{"session_id": 465, "sequence": [2, 0, 2, 0, 2, 0, 0, 3]}
-{"session_id": 279, "sequence": [3, 0, 0, 1, 3, 1, 2]}
-{"session_id": 473, "sequence": [2, 0, 2, 2, 2, 1, 0]}
-{"session_id": 376, "sequence": [2, 3, 2, 3, 2]}
-{"session_id": 368, "sequence": [2, 2, 2, 3, 0, 3, 3, 0]}
-{"session_id": 478, "sequence": [2, 1, 1, 2, 3]}
-{"session_id": 634, "sequence": [2, 0, 0, 3, 2, 2, 0, 1]}
-{"session_id": 363, "sequence": [1, 2, 1, 0, 0, 1]}
-{"session_id": 518, "sequence": [2, 1, 2, 2, 2, 0, 2]}
-{"session_id": 855, "sequence": [3, 0, 3, 0, 0, 2, 1, 3]}
-{"session_id": 367, "sequence": [1, 0, 2, 1]}
-{"session_id": "bot_1133", "sequence": [2, 0, 1, 3]}
-{"session_id": 266, "sequence": [2, 2, 0, 1, 0, 2, 2, 3]}
-{"session_id": 233, "sequence": [2, 0, 0, 1]}
-{"session_id": "bot_1086", "sequence": [2, 0, 3]}
-{"session_id": 311, "sequence": [1, 2, 1, 0, 0]}
-{"session_id": 597, "sequence": [1, 2, 1, 2, 2, 3]}
-{"session_id": 981, "sequence": [1, 2, 1, 1, 1]}
-{"session_id": 883, "sequence": [2, 1, 0, 3, 0, 3, 2]}
-{"session_id": "bot_1092", "sequence": [0, 1, 3]}
-{"session_id": 399, "sequence": [1, 0, 3, 3]}
-{"session_id": 745, "sequence": [2, 2, 3, 1]}
-{"session_id": 962, "sequence": [1, 2, 1, 1, 3, 3, 2]}
-{"session_id": "bot_1067", "sequence": [3, 1, 2]}
-{"session_id": 484, "sequence": [0, 0, 2, 3]}
-{"session_id": 529, "sequence": [1, 3, 2, 2, 0]}
-{"session_id": 371, "sequence": [1, 2, 3, 0, 3]}
-{"session_id": 790, "sequence": [0, 3, 2, 1, 2]}
-{"session_id": 167, "sequence": [2, 3, 0, 1, 3, 0]}
-{"session_id": 559, "sequence": [1, 3, 0, 1, 0, 1, 3]}
-{"session_id": "bot_1079", "sequence": [1, 0]}
-{"session_id": 723, "sequence": [2, 0, 1, 2, 0, 0]}
-{"session_id": 672, "sequence": [1, 1, 3, 3, 2]}
-{"session_id": "bot_1124", "sequence": [0, 3]}
-{"session_id": 865, "sequence": [1, 2, 0, 2, 1, 0, 0]}
-{"session_id": 278, "sequence": [1, 2, 0, 2, 1]}
-{"session_id": 810, "sequence": [0, 3, 3, 0, 0, 1, 1, 3]}
-{"session_id": 533, "sequence": [1, 1, 3, 3, 2, 2, 1]}
-{"session_id": 539, "sequence": [1, 1, 2, 3, 0, 0, 0]}
-{"session_id": 341, "sequence": [3, 2, 3, 2, 0, 3, 2, 3]}
-{"session_id": 354, "sequence": [2, 3, 3, 0, 3, 1]}
-{"session_id": 769, "sequence": [3, 2, 1, 1, 2]}
-{"session_id": 682, "sequence": [0, 2, 3, 2, 3, 1, 0]}
-{"session_id": 735, "sequence": [3, 0, 3, 3, 3, 3, 0]}
-{"session_id": 839, "sequence": [2, 3, 2, 1, 0]}
-{"session_id": 773, "sequence": [1, 1, 0, 0]}
-{"session_id": 498, "sequence": [0, 2, 0, 3, 3]}
-{"session_id": 892, "sequence": [0, 1, 2, 3]}
-{"session_id": 274, "sequence": [2, 3, 3, 3, 0, 0, 2, 3]}
-{"session_id": 982, "sequence": [3, 1, 1, 3, 3, 2, 3]}
-{"session_id": 510, "sequence": [2, 0, 0, 0, 0, 0, 1, 1]}
-{"session_id": 209, "sequence": [1, 2, 1, 3, 2, 2, 1]}
-{"session_id": 717, "sequence": [2, 3, 1, 3, 2]}
-{"session_id": 499, "sequence": [3, 2, 1, 0, 0, 1, 2]}
-{"session_id": 987, "sequence": [3, 1, 2, 0, 0, 3, 3]}
-{"session_id": 131, "sequence": [2, 1, 3, 2, 0, 0, 2]}
-{"session_id": 786, "sequence": [1, 1, 3, 3, 1]}
-{"session_id": 511, "sequence": [1, 2, 1, 0]}
-{"session_id": 117, "sequence": [1, 1, 0, 0, 2]}
-{"session_id": 743, "sequence": [0, 1, 0, 1, 3]}
-{"session_id": 44, "sequence": [1, 2, 3, 0, 2]}
-{"session_id": 538, "sequence": [1, 3, 0, 0, 1, 2]}
-{"session_id": 463, "sequence": [2, 0, 3, 0, 0, 1]}
-{"session_id": 397, "sequence": [0, 0, 1, 1, 0, 2]}
-{"session_id": 757, "sequence": [2, 2, 1, 1, 0]}
-{"session_id": "bot_1023", "sequence": [1, 0, 3]}
-{"session_id": 452, "sequence": [1, 1, 1, 0, 2, 2, 1]}
-{"session_id": "bot_1099", "sequence": [1, 0]}
-{"session_id": 900, "sequence": [2, 2, 1, 3, 2, 2, 2]}
-{"session_id": 114, "sequence": [1, 1, 0, 0, 0, 1]}
-{"session_id": 653, "sequence": [2, 1, 0, 1]}
-{"session_id": 380, "sequence": [3, 1, 1, 1, 0, 3]}
-{"session_id": 221, "sequence": [2, 3, 0, 3]}
+{"session_id": 37, "sequence": [2, 0, 0, 0, 1, 3, 3]}
+{"session_id": 401, "sequence": [1, 1, 1, 2, 1, 3, 3]}
+{"session_id": 413, "sequence": [2, 2, 2, 1, 0, 2]}
+{"session_id": "bot_1108", "sequence": [1, 0]}
+{"session_id": 145, "sequence": [3, 0, 2, 0, 2, 2, 0, 1]}
+{"session_id": 675, "sequence": [1, 3, 0, 1, 2]}
+{"session_id": 7, "sequence": [3, 3, 1, 1]}
+{"session_id": 410, "sequence": [3, 1, 0, 0]}
+{"session_id": 386, "sequence": [2, 0, 3, 1, 3, 3]}
+{"session_id": 403, "sequence": [0, 2, 0, 0, 0, 1, 2]}
+{"session_id": 855, "sequence": [2, 2, 1, 0, 3, 3]}
+{"session_id": 98, "sequence": [0, 2, 2, 2, 0, 1, 0]}
+{"session_id": 677, "sequence": [1, 0, 2, 3]}
+{"session_id": 942, "sequence": [0, 2, 0, 1, 3, 2, 0, 3]}
+{"session_id": 4, "sequence": [1, 0, 1, 3, 0]}
+{"session_id": 270, "sequence": [1, 0, 3, 0, 1, 2, 3]}
+{"session_id": 741, "sequence": [0, 3, 3, 3, 2]}
+{"session_id": 643, "sequence": [1, 0, 2, 1, 2, 3, 2]}
+{"session_id": 196, "sequence": [2, 1, 3, 1, 1]}
+{"session_id": 511, "sequence": [3, 3, 3, 2, 2, 1, 0]}
+{"session_id": 236, "sequence": [3, 0, 0, 0, 3, 2]}
+{"session_id": 752, "sequence": [2, 0, 2, 1, 3]}
+{"session_id": 45, "sequence": [1, 3, 0, 2]}
+{"session_id": 714, "sequence": [3, 1, 0, 0, 0, 2, 0, 0]}
+{"session_id": 608, "sequence": [2, 1, 3, 0]}
+{"session_id": 292, "sequence": [2, 2, 0, 2, 0, 2, 2]}
+{"session_id": 739, "sequence": [3, 2, 3, 3, 2]}
+{"session_id": 47, "sequence": [0, 3, 1, 1, 2, 2, 2]}
+{"session_id": 414, "sequence": [3, 1, 0, 1, 0, 1, 2, 1]}
+{"session_id": 936, "sequence": [0, 2, 2, 2]}
+{"session_id": "bot_1131", "sequence": [2, 1]}
+{"session_id": 297, "sequence": [0, 2, 2, 1, 0, 0, 3]}
+{"session_id": 226, "sequence": [2, 3, 0, 3, 1, 0, 3, 2]}
+{"session_id": 882, "sequence": [3, 0, 2, 3, 3, 1, 2, 3]}
+{"session_id": 766, "sequence": [0, 2, 1, 2, 2, 1]}
+{"session_id": "bot_1086", "sequence": [0, 3, 2]}
+{"session_id": "bot_1008", "sequence": [2, 3]}
+{"session_id": 62, "sequence": [3, 1, 1, 2, 1]}
+{"session_id": 231, "sequence": [0, 2, 1, 3, 1]}
+{"session_id": 199, "sequence": [0, 3, 2, 2, 3]}
+{"session_id": 411, "sequence": [3, 1, 1, 3, 2, 3, 2, 2]}
+{"session_id": 845, "sequence": [2, 0, 2, 3, 1, 2]}
+{"session_id": 456, "sequence": [2, 2, 3, 1]}
+{"session_id": 473, "sequence": [0, 0, 1, 2, 0, 2, 2, 0]}
+{"session_id": 327, "sequence": [0, 1, 3, 1]}
+{"session_id": 649, "sequence": [2, 1, 1, 2, 1, 3, 0, 0]}
+{"session_id": 860, "sequence": [1, 0, 3, 1]}
+{"session_id": 778, "sequence": [1, 0, 1, 1]}
+{"session_id": 796, "sequence": [0, 2, 2, 2, 1, 2]}
+{"session_id": 840, "sequence": [1, 0, 1, 0, 1, 3]}
+{"session_id": 615, "sequence": [2, 1, 1, 3, 2, 2, 3, 0]}
+{"session_id": 242, "sequence": [1, 0, 1, 0, 3, 2, 1, 0]}
+{"session_id": "bot_1019", "sequence": [1, 2]}
+{"session_id": 890, "sequence": [3, 2, 0, 1, 1, 2, 3, 3]}
+{"session_id": 655, "sequence": [2, 3, 1, 0, 1]}
+{"session_id": 718, "sequence": [0, 3, 3, 2]}
+{"session_id": "bot_1037", "sequence": [3, 1, 0, 2]}
+{"session_id": 33, "sequence": [2, 2, 3, 1]}
+{"session_id": "bot_1128", "sequence": [1, 3]}
+{"session_id": 155, "sequence": [1, 2, 2, 0, 2, 2, 3, 2]}
+{"session_id": 273, "sequence": [0, 2, 0, 1, 3, 1]}
+{"session_id": 239, "sequence": [3, 2, 3, 2]}
+{"session_id": 27, "sequence": [2, 1, 0, 1, 1, 2, 2, 0]}
+{"session_id": 136, "sequence": [3, 3, 3, 0, 0, 2, 1, 2]}
+{"session_id": 425, "sequence": [2, 3, 1, 3, 2, 3, 2, 3]}
+{"session_id": 933, "sequence": [1, 3, 0, 1, 3, 3, 2]}
+{"session_id": 751, "sequence": [1, 1, 0, 0, 1]}
+{"session_id": 619, "sequence": [0, 3, 3, 3, 3, 1, 3]}
+{"session_id": 760, "sequence": [1, 2, 0, 0, 3, 1]}
+{"session_id": 146, "sequence": [0, 3, 1, 3, 3]}
+{"session_id": "bot_1079", "sequence": [2, 1, 0]}
+{"session_id": "bot_1012", "sequence": [1, 0, 3, 2]}
+{"session_id": 147, "sequence": [0, 2, 3, 0, 0]}
+{"session_id": 31, "sequence": [3, 2, 2, 2, 0]}
+{"session_id": 510, "sequence": [3, 0, 0, 2, 0, 0, 3]}
+{"session_id": 222, "sequence": [0, 2, 0, 1, 3, 1]}
+{"session_id": "bot_1014", "sequence": [2, 0, 1]}
+{"session_id": 786, "sequence": [3, 3, 3, 2, 3, 1]}
+{"session_id": 991, "sequence": [3, 0, 1, 2, 1, 2, 3]}
+{"session_id": 135, "sequence": [0, 1, 2, 0, 1]}
+{"session_id": 421, "sequence": [0, 2, 0, 3, 0, 2, 2, 3]}
+{"session_id": 358, "sequence": [0, 3, 2, 3, 3]}
+{"session_id": 278, "sequence": [2, 1, 2, 1, 3, 3, 2]}
+{"session_id": 177, "sequence": [2, 3, 2, 0, 1]}
+{"session_id": "bot_1118", "sequence": [3, 0, 1, 2]}
+{"session_id": 409, "sequence": [3, 2, 2, 2, 0, 0, 1]}
+{"session_id": "bot_1094", "sequence": [3, 0]}
+{"session_id": "bot_1015", "sequence": [2, 3, 1, 0]}
+{"session_id": 970, "sequence": [1, 0, 1, 2, 3, 3, 0, 0]}
+{"session_id": 998, "sequence": [0, 3, 1, 1]}
+{"session_id": 907, "sequence": [1, 2, 3, 1]}
+{"session_id": 949, "sequence": [1, 0, 3, 2, 0, 3, 1]}
+{"session_id": 961, "sequence": [2, 1, 0, 2, 0, 1, 1]}
+{"session_id": 317, "sequence": [2, 1, 0, 0, 2, 2, 1, 0]}
+{"session_id": 335, "sequence": [3, 3, 0, 1, 2, 2, 0]}
+{"session_id": 935, "sequence": [1, 2, 1, 0, 0, 1]}
+{"session_id": 563, "sequence": [1, 0, 3, 3]}
+{"session_id": 914, "sequence": [3, 0, 0, 2, 3, 2, 2]}
+{"session_id": 441, "sequence": [0, 3, 1, 2, 1]}
+{"session_id": 99, "sequence": [3, 1, 2, 1, 0, 2, 3]}
+{"session_id": 648, "sequence": [3, 3, 3, 3]}
+{"session_id": 252, "sequence": [1, 0, 2, 2, 2]}
+{"session_id": 570, "sequence": [1, 3, 3, 0, 1, 2]}
+{"session_id": 680, "sequence": [1, 0, 1, 1, 1]}
+{"session_id": 233, "sequence": [3, 1, 2, 2, 3]}
+{"session_id": 971, "sequence": [2, 1, 3, 0, 3, 1, 0, 0]}
+{"session_id": 257, "sequence": [3, 0, 1, 3, 1]}
+{"session_id": "bot_1034", "sequence": [1, 2]}
+{"session_id": 683, "sequence": [2, 1, 3, 2, 2, 1, 0, 0]}
+{"session_id": 193, "sequence": [1, 3, 2, 3, 1, 3, 3]}
+{"session_id": 150, "sequence": [3, 1, 1, 1, 2, 2, 1, 3]}
